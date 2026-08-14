@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "questionText": "Sebutkan 5 pemain dengan tendangan paling keras sepanjang sejarah!",
+    "answers": [
+      { "answer": "Roberto Carlos", "points": 45 },
+      { "answer": "Cristiano Ronaldo", "points": 25 },
+      { "answer": "Adriano", "points": 15 },
+      { "answer": "Hulk", "points": 10 },
+      { "answer": "Zlatan Ibrahimovic", "points": 5 }
+    ]
+  },
+  {
+    "id": 2,
+    "questionText": "Sebutkan negara yang paling banyak menjuarai Piala Dunia!",
+    "answers": [
+      { "answer": "Brasil", "points": 50 },
+      { "answer": "Jerman", "points": 20 },
+      { "answer": "Italia", "points": 15 },
+      { "answer": "Argentina", "points": 10 },
+      { "answer": "Prancis", "points": 5 }
+    ]
+  }
+]
