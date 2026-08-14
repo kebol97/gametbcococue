@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "imageUrl": "https://url-gambar-pemain-1.jpg",
+    "questionText": "Siapa pemain legenda yang dijuluki 'El Capitano' di tim ini?",
+    "options": ["Paolo Maldini", "Francesco Totti", "Javier Zanetti", "Alessandro Del Piero"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 2,
+    "imageUrl": "https://url-gambar-pemain-2.jpg",
+    "questionText": "Pemain ini memenangkan Ballon d'Or pada tahun 2007, siapa dia?",
+    "options": ["Kaka", "Ronaldinho", "Lionel Messi", "Cristiano Ronaldo"],
+    "correctAnswerIndex": 0
+  }
+]
