@@ -1,1403 +1,2402 @@
-[
-  {
-    "id": 1,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Lionel-Messi-Argentina-2022-FIFA-World-Cup%20%28cropped%29.jpg?width=600",
-    "questionText": "Kapten timnas Argentina yang menjuarai Piala Dunia 2022 ini adalah...",
-    "options": ["Angel Di Maria", "Sergio Agüero", "Lionel Messi", "Lautaro Martinez"],
-    "correctAnswerIndex": 2
-  },
-  {
-    "id": 2,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Cristiano%20Ronaldo%202018.jpg?width=600",
-    "questionText": "Pencetak gol terbanyak sepanjang masa timnas Portugal ini adalah...",
-    "options": ["Cristiano Ronaldo", "Luis Figo", "Eusébio", "Bernardo Silva"],
-    "correctAnswerIndex": 0
-  },
-  {
-    "id": 3,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Luka%20Modric%202018.jpg?width=600",
-    "questionText": "Gelandang Kroasia pemenang Ballon d'Or 2018 ini adalah...",
-    "options": ["Ivan Rakitic", "Luka Modric", "Mateo Kovacic", "Marcelo Brozovic"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 4,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Zinedine%20Zidane%20by%20Tasnim%2003.jpg?width=600",
-    "questionText": "Legenda Prancis pencetak dua gol di final Piala Dunia 1998 ini adalah...",
-    "options": ["Michel Platini", "Thierry Henry", "Zinedine Zidane", "Didier Deschamps"],
-    "correctAnswerIndex": 2
-  },
-  {
-    "id": 5,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Erling%20Haaland%202023%20%28cropped%29.jpg?width=600",
-    "questionText": "Mesin gol asal Norwegia yang membela Manchester City ini adalah...",
-    "options": ["Martin Ødegaard", "Erling Haaland", "Alexander Sørloth", "Joshua King"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 6,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Kylian%20Mbapp%C3%A9%202018.jpg?width=600",
-    "questionText": "Bintang timnas Prancis pencetak hattrick di final Piala Dunia 2022 adalah...",
-    "options": ["Antoine Griezmann", "Karim Benzema", "Kylian Mbappé", "Ousmane Dembélé"],
-    "correctAnswerIndex": 2
-  },
-  {
-    "id": 7,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Neymar%20Jr%202018.jpg?width=600",
-    "questionText": "Penyerang sayap asal Brasil yang pernah membela Barcelona dan PSG ini adalah...",
-    "options": ["Vinicius Jr", "Neymar Jr", "Gabriel Jesus", "Rodrygo"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 8,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Kevin%20De%20Bruyne%202018.jpg?width=600",
-    "questionText": "Playmaker andalan Belgia dan Manchester City ini adalah...",
-    "options": ["Eden Hazard", "Romelu Lukaku", "Kevin De Bruyne", "Dries Mertens"],
-    "correctAnswerIndex": 2
-  },
-  {
-    "id": 9,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mohamed%20Salah%202018.jpg?width=600",
-    "questionText": "Penyerang sayap Liverpool asal Mesir berjuluk 'The Egyptian King' adalah...",
-    "options": ["Sadio Mané", "Riyad Mahrez", "Mohamed Salah", "Hakim Ziyech"],
-    "correctAnswerIndex": 2
-  },
-  {
-    "id": 10,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Karim%20Benzema%202018.jpg?width=600",
-    "questionText": "Pemenang Ballon d'Or 2022 asal Prancis ini adalah...",
-    "options": ["Karim Benzema", "Olivier Giroud", "Alexandre Lacazette", "Antoine Griezmann"],
-    "correctAnswerIndex": 0
-  },
-  {
-    "id": 11,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Lewandowski%202018.jpg?width=600",
-    "questionText": "Striker tajam asal Polandia yang membela Barcelona ini adalah...",
-    "options": ["Arkadiusz Milik", "Krzysztof Piątek", "Robert Lewandowski", "Wojciech Szczęsny"],
-    "correctAnswerIndex": 2
-  },
-  {
-    "id": 12,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Harry%20Kane%202018.jpg?width=600",
-    "questionText": "Top skor sepanjang masa timnas Inggris ini adalah...",
-    "options": ["Wayne Rooney", "Harry Kane", "Alan Shearer", "Michael Owen"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 13,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Son%20Heung-min%202018.jpg?width=600",
-    "questionText": "Penyerang sayap Tottenham Hotspur dan kapten Korea Selatan ini adalah...",
-    "options": ["Park Ji-sung", "Son Heung-min", "Hwang Hee-chan", "Kim Min-jae"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 14,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Virgil%20van%20Dijk%202018.jpg?width=600",
-    "questionText": "Bek tangguh asal Belanda yang menjadi andalan lini belakang Liverpool adalah...",
-    "options": ["Matthijs de Ligt", "Virgil van Dijk", "Stefan de Vrij", "Nathan Aké"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 15,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Manuel%20Neuer%202018.jpg?width=600",
-    "questionText": "Kiper legendaris Bayern Munich dan timnas Jerman ini adalah...",
-    "options": ["Oliver Kahn", "Jens Lehmann", "Manuel Neuer", "Marc-André ter Stegen"],
-    "correctAnswerIndex": 2
-  },
-  {
-    "id": 16,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Antoine%20Griezmann%202018.jpg?width=600",
-    "questionText": "Penyerang serbaguna Atletico Madrid andalan Prancis ini adalah...",
-    "options": ["Antoine Griezmann", "Kylian Mbappé", "Nabil Fekir", "Florian Thauvin"],
-    "correctAnswerIndex": 0
-  },
-  {
-    "id": 17,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sadio%20Man%C3%A9%202018.jpg?width=600",
-    "questionText": "Penyerang Senegal yang membawa negaranya juara Piala Afrika 2021 adalah...",
-    "options": ["Sadio Mané", "Kalidou Koulibaly", "Édouard Mendy", "Ismaïla Sarr"],
-    "correctAnswerIndex": 0
-  },
-  {
-    "id": 18,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sergio%20Ramos%202018.jpg?width=600",
-    "questionText": "Bek legendaris Spanyol dan mantan kapten Real Madrid bernomor 4 adalah...",
-    "options": ["Gerard Piqué", "Sergio Ramos", "Carles Puyol", "Fernando Hierro"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 19,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Luis%20Suarez%202018.jpg?width=600",
-    "questionText": "Striker Uruguay berjuluk 'El Pistolero' yang pernah membela Liverpool dan Barcelona adalah...",
-    "options": ["Edinson Cavani", "Diego Forlán", "Luis Suárez", "Darwin Núñez"],
-    "correctAnswerIndex": 2
-  },
-  {
-    "id": 20,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Toni%20Kroos%202018.jpg?width=600",
-    "questionText": "Gelandang metronom asal Jerman yang melegenda bersama Real Madrid adalah...",
-    "options": ["Bastian Schweinsteiger", "Mesut Özil", "Toni Kroos", "İlkay Gündoğan"],
-    "correctAnswerIndex": 2
-  },
-  {
-    "id": 21,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mesut%20%C3%96zil%202018.jpg?width=600",
-    "questionText": "Playmaker Jerman bervisi tajam yang pernah membela Real Madrid dan Arsenal adalah...",
-    "options": ["Mesut Özil", "Mario Götze", "Julian Draxler", "Marco Reus"],
-    "correctAnswerIndex": 0
-  },
-  {
-    "id": 22,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Marco%20Reus%202018.jpg?width=600",
-    "questionText": "Pemain ikonik dan kapten setia Borussia Dortmund asal Jerman adalah...",
-    "options": ["Julian Brandt", "Marco Reus", "Mats Hummels", "Mario Götze"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 23,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20M%C3%BCller%202018.jpg?width=600",
-    "questionText": "Pemain serbaguna Bayern Munich pencetus peran 'Raumdeuter' adalah...",
-    "options": ["Thomas Müller", "Mario Gómez", "Lukas Podolski", "Miroslav Klose"],
-    "correctAnswerIndex": 0
-  },
-  {
-    "id": 24,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Eden%20Hazard%202018.jpg?width=600",
-    "questionText": "Winger lincah Belgia yang menjadi bintang Chelsea sebelum hijrah ke Real Madrid adalah...",
-    "options": ["Eden Hazard", "Thorgan Hazard", "Dries Mertens", "Yannick Carrasco"],
-    "correctAnswerIndex": 0
-  },
-  {
-    "id": 25,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Gareth%20Bale%202018.jpg?width=600",
-    "questionText": "Winger cepat asal Wales yang mencetak gol salto di final UCL 2018 adalah...",
-    "options": ["Aaron Ramsey", "Ryan Giggs", "Gareth Bale", "Daniel James"],
-    "correctAnswerIndex": 2
-  },
-  {
-    "id": 26,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sergio%20Ag%C3%BCero%202018.jpg?width=600",
-    "questionText": "Top skor sepanjang masa Manchester City pencetak gol penentu gelar EPL 2012 adalah...",
-    "options": ["Carlos Tevez", "Sergio Agüero", "Gabriel Jesus", "Edin Džeko"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 27,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/David%20Silva%202018.jpg?width=600",
-    "questionText": "Playmaker kreatif Spanyol berjuluk 'El Mago' legenda Manchester City adalah...",
-    "options": ["Juan Mata", "David Silva", "Santi Cazorla", "Isco"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 28,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Vincent%20Kompany%202018.jpg?width=600",
-    "questionText": "Kapten legendaris asal Belgia yang memimpin era keemasan Manchester City adalah...",
-    "options": ["Vincent Kompany", "Thomas Vermaelen", "Jan Vertonghen", "Toby Alderweireld"],
-    "correctAnswerIndex": 0
-  },
-  {
-    "id": 29,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Pogba%202018.jpg?width=600",
-    "questionText": "Gelandang Prancis pemenang Piala Dunia 2018 yang pernah membela Juventus dan MU adalah...",
-    "options": ["N'Golo Kanté", "Paul Pogba", "Adrien Rabiot", "Corentin Tolisso"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 30,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/N%27Golo%20Kant%C3%A9%202018.jpg?width=600",
-    "questionText": "Gelandang bertahan Prancis yang menjuarai EPL beruntun bersama Leicester dan Chelsea adalah...",
-    "options": ["Claude Makélélé", "N'Golo Kanté", "Blaise Matuidi", "Tiémoué Bakayoko"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 31,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Edinson%20Cavani%202018.jpg?width=600",
-    "questionText": "Penyerang tajam Uruguay berjuluk 'El Matador' yang pernah menjadi top skor PSG adalah...",
-    "options": ["Luis Suárez", "Edinson Cavani", "Cristhian Stuani", "Diego Godín"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 32,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Thiago%20Silva%202018.jpg?width=600",
-    "questionText": "Bek tangguh Brasil berjuluk 'O Monstro' yang pernah membela Milan, PSG, dan Chelsea adalah...",
-    "options": ["Marquinhos", "David Luiz", "Thiago Silva", "Miranda"],
-    "correctAnswerIndex": 2
-  },
-  {
-    "id": 33,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Marcelo%202018.jpg?width=600",
-    "questionText": "Bek kiri lincah Brasil pemilik 5 gelar Liga Champions bersama Real Madrid adalah...",
-    "options": ["Roberto Carlos", "Marcelo", "Alex Sandro", "Filipe Luís"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 34,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Gerard%20Piqu%C3%A9%202018.jpg?width=600",
-    "questionText": "Bek tengah Spanyol yang meraih treble winner bersama Barcelona adalah...",
-    "options": ["Gerard Piqué", "Marc Bartra", "Marc Valiente", "Inigo Martinez"],
-    "correctAnswerIndex": 0
-  },
-  {
-    "id": 35,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jordi%20Alba%202018.jpg?width=600",
-    "questionText": "Bek kiri cepat asal Spanyol yang lama berkarier di Barcelona adalah...",
-    "options": ["Alejandro Balde", "Jordi Alba", "José Gayà", "Nacho Monreal"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 36,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sergio%20Busquets%202018.jpg?width=600",
-    "questionText": "Gelandang bertahan poros tiki-taka Barcelona dan timnas Spanyol adalah...",
-    "options": ["Javier Mascherano", "Sergio Busquets", "Seydou Keita", "Alex Song"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 37,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Dani%20Alves%202018.jpg?width=600",
-    "questionText": "Bek kanan Brasil pemegang rekor puluhan trofi bergengsi sepanjang kariernya adalah...",
-    "options": ["Dani Alves", "Danilo", "Maicon", "Fagner"],
-    "correctAnswerIndex": 0
-  },
-  {
-    "id": 38,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Gianluigi%20Buffon%202018.jpg?width=600",
-    "questionText": "Kiper legendaris Italia dan Juventus peraih Piala Dunia 2006 adalah...",
-    "options": ["Dino Zoff", "Gianluigi Donnarumma", "Gianluigi Buffon", "Francesco Toldo"],
-    "correctAnswerIndex": 2
-  },
-  {
-    "id": 39,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Giorgio%20Chiellini%202018.jpg?width=600",
-    "questionText": "Bek tangguh kapten Italia saat menjuarai Euro 2020 adalah...",
-    "options": ["Leonardo Bonucci", "Giorgio Chiellini", "Andrea Barzagli", "Francesco Acerbi"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 40,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Leonardo%20Bonucci%202018.jpg?width=600",
-    "questionText": "Bek tengah Italia spesialis operan jauh bagian trio 'BBC' Juventus adalah...",
-    "options": ["Giorgio Chiellini", "Leonardo Bonucci", "Daniele Rugani", "Mattia Caldara"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 41,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Wayne%20Rooney%202018.jpg?width=600",
-    "questionText": "Top skor sepanjang masa Manchester United berjuluk 'Wazza' adalah...",
-    "options": ["Marcus Rashford", "Ruud van Nistelrooy", "Wayne Rooney", "Andy Cole"],
-    "correctAnswerIndex": 2
-  },
-  {
-    "id": 42,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Thierry%20Henry%202018.jpg?width=600",
-    "questionText": "Top skor sepanjang masa Arsenal dan ikon 'The Invincibles' adalah...",
-    "options": ["Nicolas Anelka", "Thierry Henry", "Ian Wright", "Robert Pires"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 43,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Steven%20Gerrard%202015.jpg?width=600",
-    "questionText": "Kapten ikonik Liverpool nomor 8 pahlawan 'Miracle of Istanbul 2005' adalah...",
-    "options": ["Frank Lampard", "Steven Gerrard", "Jordan Henderson", "Paul Scholes"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 44,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Frank%20Lampard%202012.jpg?width=600",
-    "questionText": "Top skor sepanjang masa Chelsea dan legenda gelandang Inggris adalah...",
-    "options": ["John Terry", "Michael Ballack", "Frank Lampard", "Didier Drogba"],
-    "correctAnswerIndex": 2
-  },
-  {
-    "id": 45,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/John%20Terry%202018.jpg?width=600",
-    "questionText": "Kapten legendaris bertembok kokoh di lini belakang Chelsea adalah...",
-    "options": ["John Terry", "Gary Cahill", "Ricardo Carvalho", "William Gallas"],
-    "correctAnswerIndex": 0
-  },
-  {
-    "id": 46,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Petr%20Cech%202018.jpg?width=600",
-    "questionText": "Kiper legendaris Chelsea dan Arsenal pemegang rekor clean sheet EPL terbanyak adalah...",
-    "options": ["Carlo Cudicini", "Petr Čech", "Thibaut Courtois", "Asmir Begović"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 47,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/David%20Beckham%202018.jpg?width=600",
-    "questionText": "Bintang Inggris spesialis tendangan bebas melengkung pemilik nomor 7 legendaris di MU adalah...",
-    "options": ["David Beckham", "Paul Scholes", "Steven Gerrard", "Frank Lampard"],
-    "correctAnswerIndex": 0
-  },
-  {
-    "id": 48,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ryan%20Giggs%202018.jpg?width=600",
-    "questionText": "Winger legendaris Manchester United asal Wales pemilik rekor penampilan terbanyak di klub adalah...",
-    "options": ["Mark Hughes", "Ian Rush", "Ryan Giggs", "Gary Speed"],
-    "correctAnswerIndex": 2
-  },
-  {
-    "id": 49,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Rio%20Ferdinand%202018.jpg?width=600",
-    "questionText": "Bek tangguh legendaris Inggris bernomor 5 di Manchester United adalah...",
-    "options": ["John Terry", "Rio Ferdinand", "Sol Campbell", "Jamie Carragher"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 50,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Nemanja%20Vidic%202018.jpg?width=600",
-    "questionText": "Bek kokoh tanpa kompromi asal Serbia yang menjadi kapten Manchester United adalah...",
-    "options": ["Branislav Ivanović", "Nemanja Vidić", "Aleksandar Kolarov", "Siniša Mihajlović"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 51,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Miroslav_Klose_2014.jpg?width=600",
-    "questionText": "Top skor sepanjang masa turnamen Piala Dunia (16 gol) asal Jerman adalah...",
-    "options": ["Gerd Müller", "Miroslav Klose", "Jürgen Klinsmann", "Rudi Völler"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 52,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bastian_Schweinsteiger_2014.jpg?width=600",
-    "questionText": "Gelandang petarung Jerman yang tampil heroik di final Piala Dunia 2014 adalah...",
-    "options": ["Michael Ballack", "Sami Khedira", "Bastian Schweinsteiger", "Torsten Frings"],
-    "correctAnswerIndex": 2
-  },
-  {
-    "id": 53,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Philipp_Lahm_2014.jpg?width=600",
-    "questionText": "Kapten serbaguna Bayern Munich dan Jerman peraih Piala Dunia 2014 adalah...",
-    "options": ["Philipp Lahm", "Joshua Kimmich", "Holger Badstuber", "David Alaba"],
-    "correctAnswerIndex": 0
-  },
-  {
-    "id": 54,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Arjen_Robben_2018.jpg?width=600",
-    "questionText": "Winger Belanda terkenal dengan gerakan 'cut inside' mematikan di Bayern Munich adalah...",
-    "options": ["Robin van Persie", "Wesley Sneijder", "Arjen Robben", "Dirk Kuyt"],
-    "correctAnswerIndex": 2
-  },
-  {
-    "id": 55,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Franck_Rib%C3%A9ry_2018.jpg?width=600",
-    "questionText": "Winger lincah Prancis yang membentuk duo maut 'Robbery' di Bayern Munich adalah...",
-    "options": ["Franck Ribéry", "Florent Malouda", "Samir Nasri", "Sylvain Wiltord"],
-    "correctAnswerIndex": 0
-  },
-  {
-    "id": 56,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Wesley_Sneijder_2012.jpg?width=600",
-    "questionText": "Playmaker Belanda pilar utama treble winner Inter Milan tahun 2010 adalah...",
-    "options": ["Rafael van der Vaart", "Wesley Sneijder", "Clarence Seedorf", "Mark van Bommel"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 57,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Robin_van_Persie_2014.jpg?width=600",
-    "questionText": "Striker Belanda pencetak gol sundulan terbang ikonik di Piala Dunia 2014 adalah...",
-    "options": ["Ruud van Nistelrooy", "Klaas-Jan Huntelaar", "Robin van Persie", "Patrick Kluivert"],
-    "correctAnswerIndex": 2
-  },
-  {
-    "id": 58,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ruud_van_Nistelrooy_2008.jpg?width=600",
-    "questionText": "Predator kotak penalti Belanda yang menjadi mesin gol MU dan Real Madrid adalah...",
-    "options": ["Roy Makaay", "Ruud van Nistelrooy", "Jimmy Floyd Hasselbaink", "Pierre van Hooijdonk"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 59,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Roberto_Carlos_2019.jpg?width=600",
-    "questionText": "Bek kiri legendaris Brasil pemilik tendangan bebas lengkung spektakuler adalah...",
-    "options": ["Cafu", "Roberto Carlos", "Branco", "Júnior"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 60,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Cafu_2018.jpg?width=600",
-    "questionText": "Kapten timnas Brasil yang mengangkat trofi Piala Dunia 2002 adalah...",
-    "options": ["Cafu", "Maicon", "Dani Alves", "Jorginho"],
-    "correctAnswerIndex": 0
-  },
-  {
-    "id": 61,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Rivaldo_2018.jpg?width=600",
-    "questionText": "Pemenang Ballon d'Or 1999 dan anggota trio '3R' Brasil 2002 adalah...",
-    "options": ["Romário", "Rivaldo", "Robinho", "Ronaldo"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 62,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ronaldo_Nazario_2018.jpg?width=600",
-    "questionText": "Striker fenomenal Brasil berjuluk 'El Fenomeno' peraih 2 Ballon d'Or adalah...",
-    "options": ["Adriano", "Romário", "Ronaldo Nazário", "Careca"],
-    "correctAnswerIndex": 2
-  },
-  {
-    "id": 63,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Romario_2014.jpg?width=600",
-    "questionText": "Striker legendaris Brasil pahlawan utama gelar Piala Dunia 1994 di AS adalah...",
-    "options": ["Bebeto", "Romário", "Müller", "Careca"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 64,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Diego_Maradona_1986.jpg?width=600",
-    "questionText": "Legenda abadi Argentina pencetak gol 'Tangan Tuhan' di Piala Dunia 1986 adalah...",
-    "options": ["Mario Kempes", "Diego Maradona", "Gabriel Batistuta", "Claudio Caniggia"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 65,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Gabriel_Batistuta_2018.jpg?width=600",
-    "questionText": "Striker tajam legendaris Argentina yang dijuluki 'Batigol' adalah...",
-    "options": ["Hernán Crespo", "Gabriel Batistuta", "Claudio López", "Javier Saviola"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 66,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Javier_Zanetti_2015.jpg?width=600",
-    "questionText": "Kapten legendaris Inter Milan berjuluk 'Il Capitano' bernomor 4 adalah...",
-    "options": ["Esteban Cambiasso", "Walter Samuel", "Javier Zanetti", "Diego Milito"],
-    "correctAnswerIndex": 2
-  },
-  {
-    "id": 67,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul_Scholes_2013.jpg?width=600",
-    "questionText": "Gelandang legendaris Manchester United dengan akurasi umpan jarak jauh luar biasa adalah...",
-    "options": ["Nicky Butt", "Roy Keane", "Paul Scholes", "Darren Fletcher"],
-    "correctAnswerIndex": 2
-  },
-  {
-    "id": 68,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Roy_Keane_2018.jpg?width=600",
-    "questionText": "Kapten bertemperamen garang yang memimpin era keemasan Manchester United adalah...",
-    "options": ["Roy Keane", "Denis Irwin", "Gary Neville", "Steve Bruce"],
-    "correctAnswerIndex": 0
-  },
-  {
-    "id": 69,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Eric_Cantona_2019.jpg?width=600",
-    "questionText": "Legenda Manchester United berjuluk 'The King' dengan ciri khas kerah tegak adalah...",
-    "options": ["David Ginola", "Eric Cantona", "Jean-Pierre Papin", "Thierry Henry"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 70,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Peter_Schmeichel_2018.jpg?width=600",
-    "questionText": "Kiper legendaris Denmark pilar treble winner Manchester United 1999 adalah...",
-    "options": ["Kasper Schmeichel", "Peter Schmeichel", "Edwin van der Sar", "Thomas Sørensen"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 71,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Edwin_van_der_Sar_2018.jpg?width=600",
-    "questionText": "Kiper legendaris Belanda penentu kemenangan MU di final Liga Champions 2008 adalah...",
-    "options": ["Edwin van der Sar", "Hans van Breukelen", "Maarten Stekelenburg", "Tim Krul"],
-    "correctAnswerIndex": 0
-  },
-  {
-    "id": 72,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Dennis_Bergkamp_2013.jpg?width=600",
-    "questionText": "Playmaker genius Belanda berjuluk 'Non-Flying Dutchman' di Arsenal adalah...",
-    "options": ["Dennis Bergkamp", "Robin van Persie", "Marc Overmars", "Clarence Seedorf"],
-    "correctAnswerIndex": 0
-  },
-  {
-    "id": 73,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Patrick_Vieira_2018.jpg?width=600",
-    "questionText": "Kapten 'The Invincibles' Arsenal asal Prancis yang bertarung di lini tengah adalah...",
-    "options": ["Emmanuel Petit", "Patrick Vieira", "Gilberto Silva", "Alex Song"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 74,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Robert_Pires_2018.jpg?width=600",
-    "questionText": "Winger Prancis elegan andalan skuad tak terkalahkan Arsenal era Wenger adalah...",
-    "options": ["Sylvain Wiltord", "Robert Pirès", "Freddie Ljungberg", "Samir Nasri"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 75,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Alan_Shearer_2018.jpg?width=600",
-    "questionText": "Top skor sepanjang masa Premier League (260 gol) legenda Newcastle United adalah...",
-    "options": ["Alan Shearer", "Michael Owen", "Andy Cole", "Les Ferdinand"],
-    "correctAnswerIndex": 0
-  },
-  {
-    "id": 76,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Michael_Owen_2018.jpg?width=600",
-    "questionText": "Striker lincah Inggris peraih Ballon d'Or 2001 saat membela Liverpool adalah...",
-    "options": ["Robbie Fowler", "Michael Owen", "Teddy Sheringham", "Emile Heskey"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 77,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Fernando_Torres_2018.jpg?width=600",
-    "questionText": "Striker Spanyol berjuluk 'El Niño' yang mematikan di Liverpool dan Atletico Madrid adalah...",
-    "options": ["David Villa", "Fernando Torres", "Fernando Morientes", "Álvaro Negredo"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 78,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/David_Villa_2018.jpg?width=600",
-    "questionText": "Top skor sepanjang masa timnas Spanyol berjuluk 'El Guaje' adalah...",
-    "options": ["Raúl González", "Fernando Torres", "David Villa", "Pedro Rodríguez"],
-    "correctAnswerIndex": 2
-  },
-  {
-    "id": 79,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Raul_Gonzalez_2018.jpg?width=600",
-    "questionText": "Pangeran Real Madrid nomor 7 sebelum era Cristiano Ronaldo adalah...",
-    "options": ["Guti Hernandez", "Raúl González", "Fernando Morientes", "Emilio Butragueño"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 80,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Xabi_Alonso_2018.jpg?width=600",
-    "questionText": "Gelandang pengatur tempo Spanyol yang membela Liverpool, Real Madrid, dan Bayern Munich adalah...",
-    "options": ["Sergio Busquets", "Marcos Senna", "Xabi Alonso", "Mikel Arteta"],
-    "correctAnswerIndex": 2
-  },
-  {
-    "id": 81,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Carles_Puyol_2012.jpg?width=600",
-    "questionText": "Kapten berambut ikal tangguh yang menjadi benteng pertahanan legendaris Barcelona adalah...",
-    "options": ["Carles Puyol", "Gerard Piqué", "Jordi Alba", "Sergio Ramos"],
-    "correctAnswerIndex": 0
-  },
-  {
-    "id": 82,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Iker_Casillas_2018.jpg?width=600",
-    "questionText": "Kiper legendaris berjuluk 'San Iker' kapten Spanyol juara Piala Dunia 2010 adalah...",
-    "options": ["Iker Casillas", "Victor Valdés", "David de Gea", "Pepe Reina"],
-    "correctAnswerIndex": 0
-  },
-  {
-    "id": 83,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Andres_Iniesta_2018.jpg?width=600",
-    "questionText": "Gelandang Spanyol pencetak gol tunggal di final Piala Dunia 2010 adalah...",
-    "options": ["Xavi Hernandez", "Andrés Iniesta", "David Silva", "Cesc Fàbregas"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 84,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Xavi_Hernandez_2018.jpg?width=600",
-    "questionText": "Maestro lini tengah Barcelona dan konduktor strategi tiki-taka Spanyol adalah...",
-    "options": ["Andrés Iniesta", "Xabi Alonso", "Xavi Hernández", "Sergio Busquets"],
-    "correctAnswerIndex": 2
-  },
-  {
-    "id": 85,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Andrea_Pirlo_2015.jpg?width=600",
-    "questionText": "Regista Italia berjuluk 'L'Architetto' dengan keahlian tendangan bebas akurat adalah...",
-    "options": ["Gennaro Gattuso", "Andrea Pirlo", "Claudio Marchisio", "Daniele De Rossi"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 86,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Francesco_Totti_2018.jpg?width=600",
-    "questionText": "Ikon setia dan pangeran AS Roma sepanjang kariernya adalah...",
-    "options": ["Daniele De Rossi", "Alessandro Florenzi", "Francesco Totti", "Antonio Cassano"],
-    "correctAnswerIndex": 2
-  },
-  {
-    "id": 87,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Alessandro_Del_Piero_2018.jpg?width=600",
-    "questionText": "Legenda nomor 10 Juventus berjuluk 'Il Pinturicchio' adalah...",
-    "options": ["Alessandro Del Piero", "Roberto Baggio", "Gianfranco Zola", "Filippo Inzaghi"],
-    "correctAnswerIndex": 0
-  },
-  {
-    "id": 88,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Paolo_Maldini_2008.jpg?width=600",
-    "questionText": "Bek kiri legendaris AC Milan bernomor punggung 3 yang dipensiunkan adalah...",
-    "options": ["Franco Baresi", "Paolo Maldini", "Alessandro Costacurta", "Mauro Tassotti"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 89,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Franco_Baresi_2018.jpg?width=600",
-    "questionText": "Sweeper legendaris Italia bernomor punggung 6 AC Milan adalah...",
-    "options": ["Franco Baresi", "Alessandro Costacurta", "Mauro Tassotti", "Filippo Galli"],
-    "correctAnswerIndex": 0
-  },
-  {
-    "id": 90,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Alessandro_Nesta_2018.jpg?width=600",
-    "questionText": "Bek tengah elegan Italia yang melegenda bersama Lazio dan AC Milan adalah...",
-    "options": ["Fabio Cannavaro", "Alessandro Nesta", "Marco Materazzi", "Giorgio Chiellini"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 91,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Fabio_Cannavaro_2018.jpg?width=600",
-    "questionText": "Kapten Italia juara Piala Dunia 2006 peraih Ballon d'Or 2006 adalah...",
-    "options": ["Fabio Cannavaro", "Alessandro Nesta", "Gianluca Zambrotta", "Christian Panucci"],
-    "correctAnswerIndex": 0
-  },
-  {
-    "id": 92,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Samuel_Eto%27o_2018.jpg?width=600",
-    "questionText": "Striker legendaris Kamerun peraih treble bersama Barcelona (2009) dan Inter (2010) adalah...",
-    "options": ["Roger Milla", "Samuel Eto'o", "Patrick M'Boma", "Rigobert Song"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 93,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/George_Weah_2018.jpg?width=600",
-    "questionText": "Satu-satunya pemain Afrika peraih Ballon d'Or (1995) dan legenda AC Milan adalah...",
-    "options": ["George Weah", "Didier Drogba", "Samuel Eto'o", "Abedi Pele"],
-    "correctAnswerIndex": 0
-  },
-  {
-    "id": 94,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Clarence_Seedorf_2018.jpg?width=600",
-    "questionText": "Satu-satunya pemain penakluk Liga Champions dengan 3 klub berbeda (Ajax, Real Madrid, Milan) adalah...",
-    "options": ["Edgar Davids", "Clarence Seedorf", "Patrick Kluivert", "Ruud Gullit"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 95,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ruud_Gullit_2018.jpg?width=600",
-    "questionText": "Bintang serbaguna Belanda peraih Ballon d'Or 1987 pilar AC Milan adalah...",
-    "options": ["Marco van Basten", "Ruud Gullit", "Frank Rijkaard", "Ronald Koeman"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 96,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Marco_van_Basten_2018.jpg?width=600",
-    "questionText": "Striker Belanda peraih 3 Ballon d'Or pencetak gol voli spektakuler Euro 1988 adalah...",
-    "options": ["Marco van Basten", "Ruud van Nistelrooy", "Patrick Kluivert", "Dennis Bergkamp"],
-    "correctAnswerIndex": 0
-  },
-  {
-    "id": 97,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Frank_Rijkaard_2018.jpg?width=600",
-    "questionText": "Gelandang bertahan elegan trio Belanda di Milan yang sukses melatih Barcelona adalah...",
-    "options": ["Ronald Koeman", "Frank Rijkaard", "Johan Neeskens", "Guus Hiddink"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 98,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Oliver_Kahn_2018.jpg?width=600",
-    "questionText": "Kiper legendaris Bayern Munich berjuluk 'Der Titan' peraih Golden Ball Piala Dunia 2002 adalah...",
-    "options": ["Jens Lehmann", "Oliver Kahn", "Bodo Illgner", "Sepp Maier"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 99,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Michael_Ballack_2018.jpg?width=600",
-    "questionText": "Gelandang dan kapten karismatik Jerman era 2000-an bernomor punggung 13 adalah...",
-    "options": ["Torsten Frings", "Michael Ballack", "Bernd Schneider", "Dietmar Hamann"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 100,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Zlatan_Ibrahimovic_2018.jpg?width=600",
-    "questionText": "Striker akrobatik Swedia berjuluk 'Ibracadabra' yang melegenda di banyak klub top Eropa adalah...",
-    "options": ["Henrik Larsson", "Zlatan Ibrahimović", "Alexander Isak", "Emil Forsberg"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 101,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Johan_Cruyff_1974.jpg?width=600",
-    "questionText": "Pencetus filosofi Total Football dan legenda abadi Ajax serta Barcelona peraih 3 Ballon d'Or adalah...",
-    "options": ["Johan Cruyff", "Rinus Michels", "Johan Neeskens", "Wim van Hanegem"],
-    "correctAnswerIndex": 0
-  },
-  {
-    "id": 102,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Franz_Beckenbauer_1974.jpg?width=600",
-    "questionText": "Legenda Jerman berjuluk 'Der Kaiser' yang menyempurnakan peran libero modern adalah...",
-    "options": ["Gerd Müller", "Franz Beckenbauer", "Sepp Maier", "Paul Breitner"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 103,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Gerd_Muller_1974.jpg?width=600",
-    "questionText": "Striker legendaris Jerman berjuluk 'Der Bomber' pencetak ratusan gol untuk Bayern Munich adalah...",
-    "options": ["Uli Hoeness", "Gerd Müller", "Jupp Heynckes", "Karl-Heinz Rummenigge"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 104,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Lev_Yashin_1966.jpg?width=600",
-    "questionText": "Satu-satunya penjaga gawang dalam sejarah peraih gelar Ballon d'Or (1963) berjuluk 'Black Spider' adalah...",
-    "options": ["Dino Zoff", "Gordon Banks", "Lev Yashin", "Sepp Maier"],
-    "correctAnswerIndex": 2
-  },
-  {
-    "id": 105,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Michel_Platini_1984.jpg?width=600",
-    "questionText": "Maestro lini tengah Prancis peraih 3 Ballon d'Or beruntun dan top skor Euro 1984 adalah...",
-    "options": ["Alain Giresse", "Michel Platini", "Jean Tigana", "Raymond Kopa"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 106,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Roberto_Baggio_1994.jpg?width=600",
-    "questionText": "Bintang Italia berjuluk 'Il Divin Codino' (The Divine Ponytail) peraih Ballon d'Or 1993 adalah...",
-    "options": ["Gianfranco Zola", "Roberto Mancini", "Roberto Baggio", "Gianluca Vialli"],
-    "correctAnswerIndex": 2
-  },
-  {
-    "id": 107,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pavel_Nedved_2004.jpg?width=600",
-    "questionText": "Gelandang bertenaga kuda asal Ceko peraih Ballon d'Or 2003 saat membela Juventus adalah...",
-    "options": ["Karel Poborský", "Tomáš Rosický", "Pavel Nedvěd", "Milan Baroš"],
-    "correctAnswerIndex": 2
-  },
-  {
-    "id": 108,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Andriy_Shevchenko_2012.jpg?width=600",
-    "questionText": "Striker tajam Ukraina peraih Ballon d'Or 2004 yang menjadi legenda AC Milan adalah...",
-    "options": ["Serhiy Rebrov", "Andriy Shevchenko", "Andriy Yarmolenko", "Yevhen Konoplyanka"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 109,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Hristo_Stoichkov_2011.jpg?width=600",
-    "questionText": "Penyerang tajam Bulgaria peraih Ballon d'Or 1994 pilar 'Dream Team' Barcelona adalah...",
-    "options": ["Dimitar Berbatov", "Hristo Stoichkov", "Krassimir Balakov", "Yordan Letchkov"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 110,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Lothar_Matth%C3%A4us_2018.jpg?width=600",
-    "questionText": "Kapten Jerman Barat juara Piala Dunia 1990 peraih Ballon d'Or 1990 adalah...",
-    "options": ["Andreas Brehme", "Jürgen Klinsmann", "Lothar Matthäus", "Thomas Hässler"],
-    "correctAnswerIndex": 2
-  },
-  {
-    "id": 111,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Gheorghe_Hagi_2018.jpg?width=600",
-    "questionText": "Playmaker genius Rumania berjuluk 'Maradona dari Carpathia' adalah...",
-    "options": ["Adrian Mutu", "Gheorghe Popescu", "Gheorghe Hagi", "Dan Petrescu"],
-    "correctAnswerIndex": 2
-  },
-  {
-    "id": 112,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Garrincha_1962.jpg?width=600",
-    "questionText": "Pemain sayap Brasil berkaki bengkok pahlawan Piala Dunia 1958 dan 1962 berjuluk 'The Joy of the People' adalah...",
-    "options": ["Didi", "Garrincha", "Vavá", "Zagallo"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 113,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Zico_2018.jpg?width=600",
-    "questionText": "Playmaker legendaris Brasil berjuluk 'White Pelé' spesialis tendangan bebas era 80-an adalah...",
-    "options": ["Sócrates", "Zico", "Falcao", "Éder"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 114,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Socrates_1982.jpg?width=600",
-    "questionText": "Kapten Brasil 1982 berpostur tinggi dan berprofesi sebagai dokter medis adalah...",
-    "options": ["Sócrates", "Toninho Cerezo", "Júnior", "Careca"],
-    "correctAnswerIndex": 0
-  },
-  {
-    "id": 115,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bebeto_2014.jpg?width=600",
-    "questionText": "Penyerang Brasil yang mempopulerkan selebrasi 'mengayun bayi' di Piala Dunia 1994 adalah...",
-    "options": ["Müller", "Romário", "Bebeto", "Viola"],
-    "correctAnswerIndex": 2
-  },
-  {
-    "id": 116,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Dunga_2010.jpg?width=600",
-    "questionText": "Gelandang bertahan sekaligus kapten Brasil saat menjuarai Piala Dunia 1994 adalah...",
-    "options": ["Mauro Silva", "Dunga", "Mazinho", "Zinho"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 117,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Claudio_Taffarel_2018.jpg?width=600",
-    "questionText": "Kiper legendaris Brasil pahlawan adu penalti di final Piala Dunia 1994 adalah...",
-    "options": ["Dida", "Cláudio Taffarel", "Júlio César", "Marcos"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 118,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Dida_2012.jpg?width=600",
-    "questionText": "Kiper jangkung Brasil pilar gawang AC Milan saat menjuarai Liga Champions 2003 dan 2007 adalah...",
-    "options": ["Júlio César", "Dida", "Doni", "Gomes"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 119,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Julio_Cesar_2014.jpg?width=600",
-    "questionText": "Kiper Brasil pilar pertahanan treble winner Inter Milan 2010 adalah...",
-    "options": ["Heurelho Gomes", "Júlio César", "Diego Cavalieri", "Neto"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 120,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Adriano_Leite_Ribeiro_2010.jpg?width=600",
-    "questionText": "Striker Brasil berkaki kiri super keras berjuluk 'L'Imperatore' (The Emperor) adalah...",
-    "options": ["Grafite", "Robinho", "Adriano", "Luís Fabiano"],
-    "correctAnswerIndex": 2
-  },
-  {
-    "id": 121,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Robinho_2011.jpg?width=600",
-    "questionText": "Pemain lincah Brasil dengan trik 'pedalada' (stepover) yang pernah membela Santos, Real Madrid, dan Milan adalah...",
-    "options": ["Denílson", "Robinho", "Pato", "Diego Ribas"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 122,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Alexandre_Pato_2011.jpg?width=600",
-    "questionText": "Penyerang muda sensasional Brasil berjuluk 'Si Bebek' yang bersinar di AC Milan adalah...",
-    "options": ["Ganso", "Alexandre Pato", "Leandro Damião", "Fred"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 123,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Maicon_2010.jpg?width=600",
-    "questionText": "Bek kanan Brasil pencetak gol sudut sempit spektakuler di Piala Dunia 2010 dan pilar treble Inter Milan adalah...",
-    "options": ["Dani Alves", "Maicon", "Belletti", "Cicinho"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 124,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Lucio_2010.jpg?width=600",
-    "questionText": "Bek tengah tangguh dan kapten Brasil pilar pertahanan Bayern Munich dan Inter Milan adalah...",
-    "options": ["Juan", "Lúcio", "Roque Júnior", "Cris"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 125,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/David_Luiz_2018.jpg?width=600",
-    "questionText": "Bek Brasil berambut keriting khas yang pernah menjuarai Liga Champions bersama Chelsea adalah...",
-    "options": ["Dante", "David Luiz", "Marquinhos", "Gabriel Paulista"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 126,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Willian_2018.jpg?width=600",
-    "questionText": "Winger Brasil spesialis tendangan bebas yang lama membela Chelsea dan Arsenal adalah...",
-    "options": ["Oscar", "Willian", "Lucas Moura", "Bernard"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 127,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Oscar_2014.jpg?width=600",
-    "questionText": "Playmaker muda Brasil yang memakai nomor 10 di Piala Dunia 2014 dan membela Chelsea adalah...",
-    "options": ["Ganso", "Oscar", "Lucas Piazon", "Philippe Coutinho"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 128,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Philippe_Coutinho_2018.jpg?width=600",
-    "questionText": "Gelandang serang Brasil berjuluk 'The Little Magician' eks bintang Liverpool dan Barcelona adalah...",
-    "options": ["Roberto Firmino", "Philippe Coutinho", "Lucas Paquetá", "Arthur Melo"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 129,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Roberto_Firmino_2018.jpg?width=600",
-    "questionText": "Penyerang unik Brasil pelopor peran false nine dalam trio penyerang maut Liverpool adalah...",
-    "options": ["Gabriel Jesus", "Richarlison", "Roberto Firmino", "Matheus Cunha"],
-    "correctAnswerIndex": 2
-  },
-  {
-    "id": 130,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Casemiro_2018.jpg?width=600",
-    "questionText": "Gelandang jangkar pertahanan asal Brasil pemenang 5 Liga Champions bersama Real Madrid adalah...",
-    "options": ["Fernandinho", "Casemiro", "Fabinho", "Fred"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 131,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Fernandinho_2018.jpg?width=600",
-    "questionText": "Gelandang bertahan dan kapten berpengaruh asal Brasil di Manchester City era Guardiola adalah...",
-    "options": ["Fernando", "Fernandinho", "Douglas Luiz", "Allan"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 132,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Fabinho_2018.jpg?width=600",
-    "questionText": "Gelandang bertahan Brasil bertubuh jangkung berjuluk 'The Hoover' di Liverpool adalah...",
-    "options": ["Fred", "Fabinho", "Bruno Guimarães", "Danilo Pereira"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 133,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Alisson_Becker_2018.jpg?width=600",
-    "questionText": "Kiper utama Brasil dan Liverpool peraih gelar Yashin Trophy perdana tahun 2019 adalah...",
-    "options": ["Ederson", "Alisson Becker", "Weverton", "Neto"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 134,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ederson_Moraes_2018.jpg?width=600",
-    "questionText": "Kiper Brasil di Manchester City yang terkenal dengan akurasi umpan jauh mematikan adalah...",
-    "options": ["Alisson Becker", "Ederson Moraes", "Diego Alves", "Claudio Bravo"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 135,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Vinicius_Junior_2023.jpg?width=600",
-    "questionText": "Winger lincah Brasil pencetak gol penentu kemenangan Real Madrid di final UCL 2022 adalah...",
-    "options": ["Rodrygo", "Vinícius Júnior", "Antony", "Raphinha"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 136,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Rodrygo_Goes_2023.jpg?width=600",
-    "questionText": "Penyerang sayap muda Brasil pahlawan comeback dramatis Real Madrid melawan Manchester City 2022 adalah...",
-    "options": ["Vinícius Júnior", "Rodrygo", "Endrick", "Reinier"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 137,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Gabriel_Jesus_2018.jpg?width=600",
-    "questionText": "Striker Brasil yang pernah menjuarai Premier League bersama Manchester City sebelum pindah ke Arsenal adalah...",
-    "options": ["Richarlison", "Gabriel Jesus", "Gabriel Martinelli", "Pedro"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 138,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Richarlison_2022.jpg?width=600",
-    "questionText": "Penyerang Brasil berjuluk 'O Pombo' pencetak gol tendangan gunting indah di Piala Dunia 2022 adalah...",
-    "options": ["Matheus Cunha", "Richarlison", "Gabriel Barbosa", "Everton Soares"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 139,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Hernan_Crespo_2006.jpg?width=600",
-    "questionText": "Striker elegan Argentina yang pernah membela Parma, Lazio, Inter, Chelsea, dan Milan adalah...",
-    "options": ["Gabriel Batistuta", "Hernán Crespo", "Claudio Caniggia", "Julio Cruz"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 140,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Juan_Roman_Riquelme_2006.jpg?width=600",
-    "questionText": "Playmaker klasik Argentina bernomor 10 yang melegenda di Boca Juniors dan Villarreal adalah...",
-    "options": ["Pablo Aimar", "Juan Román Riquelme", "Ariel Ortega", "Marcelo Gallardo"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 141,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pablo_Aimar_2006.jpg?width=600",
-    "questionText": "Gelandang serang lincah Argentina idola masa kecil Lionel Messi yang bersinar di Valencia adalah...",
-    "options": ["Javier Saviola", "Pablo Aimar", "Kily González", "Andrés D'Alessandro"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 142,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Javier_Mascherano_2018.jpg?width=600",
-    "questionText": "Gelandang/bek petarung tangguh Argentina berjuluk 'El Jefecito' legenda Barcelona adalah...",
-    "options": ["Esteban Cambiasso", "Javier Mascherano", "Fernando Gago", "Lucas Biglia"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 143,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Esteban_Cambiasso_2010.jpg?width=600",
-    "questionText": "Gelandang bertahan cerdas Argentina pilar utama treble winner Inter Milan 2010 adalah...",
-    "options": ["Juan Sebastián Verón", "Esteban Cambiasso", "Diego Simeone", "Fernando Redondo"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 144,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Juan_Sebastian_Veron_2010.jpg?width=600",
-    "questionText": "Playmaker berkepala plontos asal Argentina berjuluk 'La Brujita' legenda Lazio dan Parma adalah...",
-    "options": ["Matías Almeyda", "Juan Sebastián Verón", "Diego Simeone", "Marcelo Gallardo"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 145,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Diego_Simeone_2018.jpg?width=600",
-    "questionText": "Gelandang petarung Argentina era 90-an yang kemudian sukses besar melatih Atletico Madrid adalah...",
-    "options": ["Mauricio Pochettino", "Diego Simeone", "Marcelo Bielsa", "Jorge Sampaoli"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 146,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Carlos_Tevez_2018.jpg?width=600",
-    "questionText": "Striker bertenaga badai asal Argentina berjuluk 'El Apache' yang membela duo Manchester dan Juventus adalah...",
-    "options": ["Gonzalo Higuaín", "Carlos Tévez", "Sergio Agüero", "Ezequiel Lavezzi"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 147,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Gonzalo_Higuain_2018.jpg?width=600",
-    "questionText": "Striker tajam Argentina berjuluk 'El Pipita' pemecah rekor gol Serie A bersama Napoli adalah...",
-    "options": ["Mauro Icardi", "Gonzalo Higuaín", "Rodrigo Palacio", "Lucas Pratto"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 148,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Angel_Di_Maria_2018.jpg?width=600",
-    "questionText": "Winger kidal Argentina pencetak gol di final Olimpiade 2008, Copa America 2021, dan Piala Dunia 2022 adalah...",
-    "options": ["Ezequiel Lavezzi", "Ángel Di María", "Nicolás Gaitán", "Erik Lamela"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 149,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Paulo_Dybala_2018.jpg?width=600",
-    "questionText": "Penyerang kreatif kidal Argentina berjuluk 'La Joya' dengan selebrasi khas topeng adalah...",
-    "options": ["Lautaro Martínez", "Paulo Dybala", "Joaquín Correa", "Alejandro Gómez"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 150,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Lautaro_Martinez_2022.jpg?width=600",
-    "questionText": "Striker andalan Argentina berjuluk 'El Toro' yang menjadi kapten dan mesin gol Inter Milan adalah...",
-    "options": ["Julián Álvarez", "Lautaro Martínez", "Mauro Icardi", "Giovanni Simeone"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 151,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Julian_Alvarez_2022.jpg?width=600",
-    "questionText": "Penyerang muda Argentina berjuluk 'La Araña' yang menjuarai Piala Dunia dan treble winner di usia muda adalah...",
-    "options": ["Lautaro Martínez", "Julián Álvarez", "Alejandro Garnacho", "Joaquín Correa"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 152,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Emiliano_Martinez_2022.jpg?width=600",
-    "questionText": "Kiper eksentrik Argentina berjuluk 'Dibu' peraih Golden Glove Piala Dunia 2022 adalah...",
-    "options": ["Franco Armani", "Emiliano Martínez", "Gerónimo Rulli", "Agustín Marchesín"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 153,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Enzo_Fernandez_2022.jpg?width=600",
-    "questionText": "Gelandang muda Argentina peraih penghargaan Best Young Player di Piala Dunia 2022 adalah...",
-    "options": ["Alexis Mac Allister", "Enzo Fernández", "Rodrigo De Paul", "Leandro Paredes"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 154,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Alexis_Mac_Allister_2022.jpg?width=600",
-    "questionText": "Gelandang cerdas Argentina berdarah Irlandia yang menjadi pilar juara dunia 2022 dan Liverpool adalah...",
-    "options": ["Enzo Fernández", "Alexis Mac Allister", "Exequiel Palacios", "Guido Rodríguez"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 155,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Rodrigo_De_Paul_2022.jpg?width=600",
-    "questionText": "Gelandang pekerja keras Argentina yang sering dijuluki 'Bodyguard Messi' adalah...",
-    "options": ["Leandro Paredes", "Rodrigo De Paul", "Giovani Lo Celso", "Marcos Acuña"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 156,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Cristian_Romero_2022.jpg?width=600",
-    "questionText": "Bek tengah tanpa kompromi asal Argentina berjuluk 'Cuti' pilar lini belakang Tottenham Hotspur adalah...",
-    "options": ["Nicolás Otamendi", "Cristian Romero", "Lisandro Martínez", "Germán Pezzella"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 157,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Lisandro_Martinez_2022.jpg?width=600",
-    "questionText": "Bek tengah tangguh Argentina berjuluk 'The Butcher' yang membela Manchester United adalah...",
-    "options": ["Marcos Senesi", "Lisandro Martínez", "Facundo Medina", "Lucas Martínez Quarta"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 158,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Nicolas_Otamendi_2018.jpg?width=600",
-    "questionText": "Bek veteran Argentina yang mengawal lini pertahanan di final Piala Dunia 2022 dan mantan pemain Man City adalah...",
-    "options": ["Ezequiel Garay", "Nicolás Otamendi", "Federico Fazio", "Gabriel Mercado"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 159,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bernardo_Silva_2018.jpg?width=600",
-    "questionText": "Playmaker serba bisa Portugal andalan Manchester City dengan kontrol bola sangat rapat adalah...",
-    "options": ["Bruno Fernandes", "Bernardo Silva", "João Félix", "Diogo Jota"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 160,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bruno_Fernandes_2018.jpg?width=600",
-    "questionText": "Gelandang kreatif sekaligus kapten Manchester United asal Portugal spesialis umpan kunci adalah...",
-    "options": ["Rúben Neves", "Bruno Fernandes", "João Moutinho", "Vitinha"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 161,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ruben_Dias_2021.jpg?width=600",
-    "questionText": "Bek tengah tangguh Portugal peraih FWA Footballer of the Year di musim perdananya bersama Man City adalah...",
-    "options": ["Pepe", "Rúben Dias", "José Fonte", "Gonçalo Inácio"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 162,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pepe_2018.jpg?width=600",
-    "questionText": "Bek legendaris Portugal yang terkenal tangguh dan tanpa kompromi pilar Real Madrid selama satu dekade adalah...",
-    "options": ["Ricardo Carvalho", "Pepe", "Bruno Alves", "Rolando"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 163,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ricardo_Carvalho_2010.jpg?width=600",
-    "questionText": "Bek tengah elegan Portugal pilar pertahanan Porto, Chelsea, dan Real Madrid adalah...",
-    "options": ["Jorge Andrade", "Ricardo Carvalho", "Fernando Couto", "Paulo Ferreira"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 164,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Luis_Figo_2010.jpg?width=600",
-    "questionText": "Winger legendaris Portugal peraih Ballon d'Or 2000 yang melakukan kepindahan kontroversial dari Barcelona ke Real Madrid adalah...",
-    "options": ["Rui Costa", "Luís Figo", "Paulo Futre", "Simão Sabrosa"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 165,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Rui_Costa_2004.jpg?width=600",
-    "questionText": "Playmaker klasik Portugal nomor 10 yang melegenda bersama Fiorentina dan AC Milan adalah...",
-    "options": ["Deco", "Rui Costa", "João Pinto", "Maniche"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 166,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Deco_2008.jpg?width=600",
-    "questionText": "Gelandang serang naturalisasi Portugal peraih Liga Champions bersama Porto dan Barcelona adalah...",
-    "options": ["Tiago Mendes", "Deco", "Costinha", "Raul Meireles"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 167,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Nani_2016.jpg?width=600",
-    "questionText": "Winger lincah Portugal dengan selebrasi salto akrobatik eks bintang Manchester United adalah...",
-    "options": ["Ricardo Quaresma", "Nani", "Silvestre Varela", "Bruma"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 168,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ricardo_Quaresma_2018.jpg?width=600",
-    "questionText": "Winger sensasional Portugal yang sangat mahir dengan teknik tendangan 'Trivela' dan 'Rabona' adalah...",
-    "options": ["Nani", "Ricardo Quaresma", "Simão", "Hugo Viana"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 169,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Joao_Felix_2021.jpg?width=600",
-    "questionText": "Penyerang kreatif muda Portugal yang pernah memenangkan penghargaan Golden Boy 2019 adalah...",
-    "options": ["Rafael Leão", "João Félix", "Gonçalo Ramos", "Pedro Neto"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 170,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Rafael_Leao_2022.jpg?width=600",
-    "questionText": "Winger cepat dan eksplosif Portugal yang menjadi pemain terbaik Serie A bersama AC Milan adalah...",
-    "options": ["João Félix", "Rafael Leão", "Francisco Conceição", "Diogo Jota"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 171,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Diogo_Jota_2021.jpg?width=600",
-    "questionText": "Penyerang serbaguna Portugal yang menjadi mesin gol mematikan di Liverpool adalah...",
-    "options": ["Gonçalo Guedes", "Diogo Jota", "André Silva", "Paulinho"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 172,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Joao_Cancelo_2021.jpg?width=600",
-    "questionText": "Bek sayap serbaguna Portugal yang mahir bermain inverted fullback di klub-klub elit Eropa adalah...",
-    "options": ["Nélson Semedo", "João Cancelo", "Diogo Dalot", "Nuno Mendes"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 173,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bukayo_Saka_2021.jpg?width=600",
-    "questionText": "Winger muda andalan Arsenal dan timnas Inggris berjuluk 'Starboy' adalah...",
-    "options": ["Phil Foden", "Bukayo Saka", "Jadon Sancho", "Marcus Rashford"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 174,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Phil_Foden_2021.jpg?width=600",
-    "questionText": "Gelandang serang kidal Inggris didikan asli akademi Manchester City berjuluk 'Stockport Iniesta' adalah...",
-    "options": ["Mason Mount", "Phil Foden", "Cole Palmer", "Jack Grealish"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 175,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jude_Bellingham_2023.jpg?width=600",
-    "questionText": "Bintang muda timnas Inggris bernomor punggung 5 di Real Madrid peraih Kopa Trophy 2023 adalah...",
-    "options": ["Declan Rice", "Jude Bellingham", "Conor Gallagher", "Kobbie Mainoo"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 176,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Declan_Rice_2021.jpg?width=600",
-    "questionText": "Gelandang bertahan andalan timnas Inggris yang menjadi jenderal lapangan tengah Arsenal adalah...",
-    "options": ["Kalvin Phillips", "Declan Rice", "Jordan Henderson", "James Ward-Prowse"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 177,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Marcus_Rashford_2018.jpg?width=600",
-    "questionText": "Penyerang sayap cepat jebolan akademi Manchester United nomor punggung 10 adalah...",
-    "options": ["Jadon Sancho", "Marcus Rashford", "Mason Greenwood", "Danny Welbeck"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 178,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jack_Grealish_2021.jpg?width=600",
-    "questionText": "Winger Inggris dengan gaya kaos kaki rendah khas yang memenangkan treble bersama Man City adalah...",
-    "options": ["James Maddison", "Jack Grealish", "Harvey Barnes", "Anthony Gordon"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 179,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Trent_Alexander-Arnold_2018.jpg?width=600",
-    "questionText": "Bek kanan Inggris pemilik umpan silang akurat nomor 66 legendaris di Liverpool adalah...",
-    "options": ["Kyle Walker", "Trent Alexander-Arnold", "Reece James", "Kieran Trippier"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 180,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Kyle_Walker_2018.jpg?width=600",
-    "questionText": "Bek kanan Inggris dengan kecepatan sprint luar biasa pilar pertahanan Manchester City adalah...",
-    "options": ["Kieran Trippier", "Kyle Walker", "Reece James", "Aaron Wan-Bissaka"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 181,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jordan_Pickford_2018.jpg?width=600",
-    "questionText": "Kiper utama tim nasional Inggris pahlawan drama adu penalti yang membela Everton adalah...",
-    "options": ["Aaron Ramsdale", "Jordan Pickford", "Nick Pope", "Dean Henderson"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 182,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Raheem_Sterling_2018.jpg?width=600",
-    "questionText": "Winger lincah Inggris yang pernah membela Liverpool, Manchester City, Chelsea, dan Arsenal adalah...",
-    "options": ["Theo Walcott", "Raheem Sterling", "Shaun Wright-Phillips", "Alex Oxlade-Chamberlain"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 183,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jamie_Vardy_2018.jpg?width=600",
-    "questionText": "Striker tajam Inggris pemecah rekor mencetak gol dalam 11 laga beruntun saat membawa Leicester juara EPL adalah...",
-    "options": ["Harry Kane", "Jamie Vardy", "Danny Ings", "Callum Wilson"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 184,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Riyad_Mahrez_2019.jpg?width=600",
-    "questionText": "Winger kidal Aljazair dengan sentuhan pertama ajaib eks bintang Leicester dan Manchester City adalah...",
-    "options": ["Sofiane Feghouli", "Riyad Mahrez", "Yacine Brahimi", "Islam Slimani"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 185,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Emerick_Aubameyang_2018.jpg?width=600",
-    "questionText": "Striker tajam asal Gabon peraih sepatu emas Premier League bersama Arsenal dan bintang Dortmund adalah...",
-    "options": ["Nicolas Pépé", "Pierre-Emerick Aubameyang", "Wilfried Zaha", "Sebastien Haller"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 186,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Hakim_Ziyech_2018.jpg?width=600",
-    "questionText": "Playmaker kidal Maroko berjuluk 'The Wizard' yang membawa negaranya ke semifinal Piala Dunia 2022 adalah...",
-    "options": ["Sofiane Boufal", "Hakim Ziyech", "Amine Harit", "Adel Taarabt"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 187,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Achraf_Hakimi_2018.jpg?width=600",
-    "questionText": "Bek kanan super cepat timnas Maroko yang membela Paris Saint-Germain adalah...",
-    "options": ["Noussair Mazraoui", "Achraf Hakimi", "Nayef Aguerd", "Romain Saïss"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 188,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Yassine_Bounou_2022.jpg?width=600",
-    "questionText": "Kiper tangguh Maroko berjuluk 'Bono' pahlawan penalti Piala Dunia 2022 dan juara Liga Europa adalah...",
-    "options": ["Munir Mohamedi", "Yassine Bounou", "Kasper Schmeichel", "Keylor Navas"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 189,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Keylor_Navas_2018.jpg?width=600",
-    "questionText": "Kiper Kosta Rika peraih 3 gelar Liga Champions beruntun bersama Real Madrid adalah...",
-    "options": ["Claudio Bravo", "Keylor Navas", "Willy Caballero", "Sergio Romero"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 190,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jan_Oblak_2018.jpg?width=600",
-    "questionText": "Kiper tangguh Slovenia peraih berkali-kali Zamora Trophy di Atletico Madrid adalah...",
-    "options": ["Samir Handanović", "Jan Oblak", "Thibaut Courtois", "Unai Simón"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 191,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Thibaut_Courtois_2018.jpg?width=600",
-    "questionText": "Kiper jangkung Belgia pemain terbaik di final Liga Champions 2022 bersama Real Madrid adalah...",
-    "options": ["Simon Mignolet", "Thibaut Courtois", "Koen Casteels", "Matz Sels"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 192,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Romelu_Lukaku_2018.jpg?width=600",
-    "questionText": "Top skor sepanjang masa tim nasional Belgia berpostur kekar adalah...",
-    "options": ["Christian Benteke", "Romelu Lukaku", "Michy Batshuayi", "Divock Origi"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 193,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Dries_Mertens_2018.jpg?width=600",
-    "questionText": "Penyerang lincah Belgia yang memecahkan rekor top skor sepanjang masa Napoli adalah...",
-    "options": ["Lorenzo Insigne", "Dries Mertens", "José Callejón", "Marek Hamšík"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 194,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Marek_Hamsik_2018.jpg?width=600",
-    "questionText": "Gelandang legendaris Slovakia dengan gaya rambut mohawk ikonik kapten Napoli adalah...",
-    "options": ["Stanislav Lobotka", "Marek Hamšík", "Juraj Kucka", "Milan Škriniar"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 195,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Milan_Skriniar_2021.jpg?width=600",
-    "questionText": "Bek tengah tangguh Slovakia mantan kapten Inter Milan yang kini membela PSG adalah...",
-    "options": ["Martin Škrtel", "Milan Škriniar", "Dávid Hancko", "Denis Vavro"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 196,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Martin_Odegaard_2023.jpg?width=600",
-    "questionText": "Playmaker kidal dan kapten Arsenal serta timnas Norwegia adalah...",
-    "options": ["Sander Berge", "Martin Ødegaard", "Erling Haaland", "Alexander Sørloth"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 197,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Alexander_Isak_2021.jpg?width=600",
-    "questionText": "Penyerang lincah dan cepat asal Swedia andalan lini depan Newcastle United adalah...",
-    "options": ["Dejan Kulusevski", "Alexander Isak", "Viktor Gyökeres", "Emil Forsberg"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 198,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Dejan_Kulusevski_2021.jpg?width=600",
-    "questionText": "Winger kidal Swedia bertenaga kuat yang membela Tottenham Hotspur adalah...",
-    "options": ["Anthony Elanga", "Dejan Kulusevski", "Viktor Claesson", "Robin Quaison"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 199,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Christian_Eriksen_2018.jpg?width=600",
-    "questionText": "Playmaker genius Denmark spesialis bola mati yang pernah membela Ajax, Spurs, Inter, dan MU adalah...",
-    "options": ["Pierre-Emile Højbjerg", "Christian Eriksen", "Mikkel Damsgaard", "Thomas Delaney"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 200,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Kasper_Schmeichel_2018.jpg?width=600",
-    "questionText": "Kiper utama Denmark juara Premier League dongeng bersama Leicester City tahun 2016 adalah...",
-    "options": ["Jonas Lössl", "Kasper Schmeichel", "Frederik Rønnow", "Mads Hermansen"],
-    "correctAnswerIndex": 1
-  }
-  
+﻿[
+    {
+        "id":  1,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/1_lionel_messi.jpg",
+        "questionText":  "Kapten timnas Argentina yang menjuarai Piala Dunia 2022 ini adalah...",
+        "options":  [
+                        "Angel Di Maria",
+                        "Sergio Agüero",
+                        "Lionel Messi",
+                        "Lautaro Martinez"
+                    ],
+        "correctAnswerIndex":  2
+    },
+    {
+        "id":  2,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/2_cristiano_ronaldo.jpg",
+        "questionText":  "Pencetak gol terbanyak sepanjang masa timnas Portugal ini adalah...",
+        "options":  [
+                        "Cristiano Ronaldo",
+                        "Luis Figo",
+                        "Eusébio",
+                        "Bernardo Silva"
+                    ],
+        "correctAnswerIndex":  0
+    },
+    {
+        "id":  3,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/3_luka_modric.jpg",
+        "questionText":  "Gelandang Kroasia pemenang Ballon d\u0027Or 2018 ini adalah...",
+        "options":  [
+                        "Ivan Rakitic",
+                        "Luka Modric",
+                        "Mateo Kovacic",
+                        "Marcelo Brozovic"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  4,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/4_zinedine_zidane.jpg",
+        "questionText":  "Legenda Prancis pencetak dua gol di final Piala Dunia 1998 ini adalah...",
+        "options":  [
+                        "Michel Platini",
+                        "Thierry Henry",
+                        "Zinedine Zidane",
+                        "Didier Deschamps"
+                    ],
+        "correctAnswerIndex":  2
+    },
+    {
+        "id":  5,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/5_erling_haaland.jpg",
+        "questionText":  "Mesin gol asal Norwegia yang membela Manchester City ini adalah...",
+        "options":  [
+                        "Martin Ødegaard",
+                        "Erling Haaland",
+                        "Alexander Sørloth",
+                        "Joshua King"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  6,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/6_kylian_mbapp_.jpg",
+        "questionText":  "Bintang timnas Prancis pencetak hattrick di final Piala Dunia 2022 adalah...",
+        "options":  [
+                        "Antoine Griezmann",
+                        "Karim Benzema",
+                        "Kylian Mbappé",
+                        "Ousmane Dembélé"
+                    ],
+        "correctAnswerIndex":  2
+    },
+    {
+        "id":  7,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/7_neymar_jr.jpg",
+        "questionText":  "Penyerang sayap asal Brasil yang pernah membela Barcelona dan PSG ini adalah...",
+        "options":  [
+                        "Vinicius Jr",
+                        "Neymar Jr",
+                        "Gabriel Jesus",
+                        "Rodrygo"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  8,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/8_kevin_de_bruyne.jpg",
+        "questionText":  "Playmaker andalan Belgia dan Manchester City ini adalah...",
+        "options":  [
+                        "Eden Hazard",
+                        "Romelu Lukaku",
+                        "Kevin De Bruyne",
+                        "Dries Mertens"
+                    ],
+        "correctAnswerIndex":  2
+    },
+    {
+        "id":  9,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/9_mohamed_salah.jpg",
+        "questionText":  "Penyerang sayap Liverpool asal Mesir berjuluk \u0027The Egyptian King\u0027 adalah...",
+        "options":  [
+                        "Sadio Mané",
+                        "Riyad Mahrez",
+                        "Mohamed Salah",
+                        "Hakim Ziyech"
+                    ],
+        "correctAnswerIndex":  2
+    },
+    {
+        "id":  10,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/10_karim_benzema.jpg",
+        "questionText":  "Pemenang Ballon d\u0027Or 2022 asal Prancis ini adalah...",
+        "options":  [
+                        "Karim Benzema",
+                        "Olivier Giroud",
+                        "Alexandre Lacazette",
+                        "Antoine Griezmann"
+                    ],
+        "correctAnswerIndex":  0
+    },
+    {
+        "id":  11,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/11_robert_lewandowski.jpg",
+        "questionText":  "Striker tajam asal Polandia yang membela Barcelona ini adalah...",
+        "options":  [
+                        "Arkadiusz Milik",
+                        "Krzysztof Piątek",
+                        "Robert Lewandowski",
+                        "Wojciech Szczęsny"
+                    ],
+        "correctAnswerIndex":  2
+    },
+    {
+        "id":  12,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/12_harry_kane.jpg",
+        "questionText":  "Top skor sepanjang masa timnas Inggris ini adalah...",
+        "options":  [
+                        "Wayne Rooney",
+                        "Harry Kane",
+                        "Alan Shearer",
+                        "Michael Owen"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  13,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/13_son_heung_min.jpg",
+        "questionText":  "Penyerang sayap Tottenham Hotspur dan kapten Korea Selatan ini adalah...",
+        "options":  [
+                        "Park Ji-sung",
+                        "Son Heung-min",
+                        "Hwang Hee-chan",
+                        "Kim Min-jae"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  14,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/14_virgil_van_dijk.jpg",
+        "questionText":  "Bek tangguh asal Belanda yang menjadi andalan lini belakang Liverpool adalah...",
+        "options":  [
+                        "Matthijs de Ligt",
+                        "Virgil van Dijk",
+                        "Stefan de Vrij",
+                        "Nathan Aké"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  15,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/15_manuel_neuer.jpg",
+        "questionText":  "Kiper legendaris Bayern Munich dan timnas Jerman ini adalah...",
+        "options":  [
+                        "Oliver Kahn",
+                        "Jens Lehmann",
+                        "Manuel Neuer",
+                        "Marc-André ter Stegen"
+                    ],
+        "correctAnswerIndex":  2
+    },
+    {
+        "id":  16,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/16_antoine_griezmann.jpg",
+        "questionText":  "Penyerang serbaguna Atletico Madrid andalan Prancis ini adalah...",
+        "options":  [
+                        "Antoine Griezmann",
+                        "Kylian Mbappé",
+                        "Nabil Fekir",
+                        "Florian Thauvin"
+                    ],
+        "correctAnswerIndex":  0
+    },
+    {
+        "id":  17,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/17_sadio_man_.jpg",
+        "questionText":  "Penyerang Senegal yang membawa negaranya juara Piala Afrika 2021 adalah...",
+        "options":  [
+                        "Sadio Mané",
+                        "Kalidou Koulibaly",
+                        "Édouard Mendy",
+                        "Ismaïla Sarr"
+                    ],
+        "correctAnswerIndex":  0
+    },
+    {
+        "id":  18,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/18_sergio_ramos.jpg",
+        "questionText":  "Bek legendaris Spanyol dan mantan kapten Real Madrid bernomor 4 adalah...",
+        "options":  [
+                        "Gerard Piqué",
+                        "Sergio Ramos",
+                        "Carles Puyol",
+                        "Fernando Hierro"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  19,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/19_luis_su_rez.jpg",
+        "questionText":  "Striker Uruguay berjuluk \u0027El Pistolero\u0027 yang pernah membela Liverpool dan Barcelona adalah...",
+        "options":  [
+                        "Edinson Cavani",
+                        "Diego Forlán",
+                        "Luis Suárez",
+                        "Darwin Núñez"
+                    ],
+        "correctAnswerIndex":  2
+    },
+    {
+        "id":  20,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/20_toni_kroos.jpg",
+        "questionText":  "Gelandang metronom asal Jerman yang melegenda bersama Real Madrid adalah...",
+        "options":  [
+                        "Bastian Schweinsteiger",
+                        "Mesut Özil",
+                        "Toni Kroos",
+                        "İlkay Gündoğan"
+                    ],
+        "correctAnswerIndex":  2
+    },
+    {
+        "id":  21,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/21_mesut_zil.jpg",
+        "questionText":  "Playmaker Jerman bervisi tajam yang pernah membela Real Madrid dan Arsenal adalah...",
+        "options":  [
+                        "Mesut Özil",
+                        "Mario Götze",
+                        "Julian Draxler",
+                        "Marco Reus"
+                    ],
+        "correctAnswerIndex":  0
+    },
+    {
+        "id":  22,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/22_marco_reus.jpg",
+        "questionText":  "Pemain ikonik dan kapten setia Borussia Dortmund asal Jerman adalah...",
+        "options":  [
+                        "Julian Brandt",
+                        "Marco Reus",
+                        "Mats Hummels",
+                        "Mario Götze"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  23,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/23_thomas_m_ller.jpg",
+        "questionText":  "Pemain serbaguna Bayern Munich pencetus peran \u0027Raumdeuter\u0027 adalah...",
+        "options":  [
+                        "Thomas Müller",
+                        "Mario Gómez",
+                        "Lukas Podolski",
+                        "Miroslav Klose"
+                    ],
+        "correctAnswerIndex":  0
+    },
+    {
+        "id":  24,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/24_eden_hazard.jpg",
+        "questionText":  "Winger lincah Belgia yang menjadi bintang Chelsea sebelum hijrah ke Real Madrid adalah...",
+        "options":  [
+                        "Eden Hazard",
+                        "Thorgan Hazard",
+                        "Dries Mertens",
+                        "Yannick Carrasco"
+                    ],
+        "correctAnswerIndex":  0
+    },
+    {
+        "id":  25,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/25_gareth_bale.jpg",
+        "questionText":  "Winger cepat asal Wales yang mencetak gol salto di final UCL 2018 adalah...",
+        "options":  [
+                        "Aaron Ramsey",
+                        "Ryan Giggs",
+                        "Gareth Bale",
+                        "Daniel James"
+                    ],
+        "correctAnswerIndex":  2
+    },
+    {
+        "id":  26,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/26_sergio_ag_ero.jpg",
+        "questionText":  "Top skor sepanjang masa Manchester City pencetak gol penentu gelar EPL 2012 adalah...",
+        "options":  [
+                        "Carlos Tevez",
+                        "Sergio Agüero",
+                        "Gabriel Jesus",
+                        "Edin Džeko"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  27,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/27_david_silva.jpg",
+        "questionText":  "Playmaker kreatif Spanyol berjuluk \u0027El Mago\u0027 legenda Manchester City adalah...",
+        "options":  [
+                        "Juan Mata",
+                        "David Silva",
+                        "Santi Cazorla",
+                        "Isco"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  28,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/28_vincent_kompany.jpg",
+        "questionText":  "Kapten legendaris asal Belgia yang memimpin era keemasan Manchester City adalah...",
+        "options":  [
+                        "Vincent Kompany",
+                        "Thomas Vermaelen",
+                        "Jan Vertonghen",
+                        "Toby Alderweireld"
+                    ],
+        "correctAnswerIndex":  0
+    },
+    {
+        "id":  29,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/29_paul_pogba.jpg",
+        "questionText":  "Gelandang Prancis pemenang Piala Dunia 2018 yang pernah membela Juventus dan MU adalah...",
+        "options":  [
+                        "N\u0027Golo Kanté",
+                        "Paul Pogba",
+                        "Adrien Rabiot",
+                        "Corentin Tolisso"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  30,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/30_n_golo_kant_.jpg",
+        "questionText":  "Gelandang bertahan Prancis yang menjuarai EPL beruntun bersama Leicester dan Chelsea adalah...",
+        "options":  [
+                        "Claude Makélélé",
+                        "N\u0027Golo Kanté",
+                        "Blaise Matuidi",
+                        "Tiémoué Bakayoko"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  31,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/31_edinson_cavani.jpg",
+        "questionText":  "Penyerang tajam Uruguay berjuluk \u0027El Matador\u0027 yang pernah menjadi top skor PSG adalah...",
+        "options":  [
+                        "Luis Suárez",
+                        "Edinson Cavani",
+                        "Cristhian Stuani",
+                        "Diego Godín"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  32,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/32_thiago_silva.jpg",
+        "questionText":  "Bek tangguh Brasil berjuluk \u0027O Monstro\u0027 yang pernah membela Milan, PSG, dan Chelsea adalah...",
+        "options":  [
+                        "Marquinhos",
+                        "David Luiz",
+                        "Thiago Silva",
+                        "Miranda"
+                    ],
+        "correctAnswerIndex":  2
+    },
+    {
+        "id":  33,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/33_marcelo.jpg",
+        "questionText":  "Bek kiri lincah Brasil pemilik 5 gelar Liga Champions bersama Real Madrid adalah...",
+        "options":  [
+                        "Roberto Carlos",
+                        "Marcelo",
+                        "Alex Sandro",
+                        "Filipe Luís"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  34,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/34_gerard_piqu_.jpg",
+        "questionText":  "Bek tengah Spanyol yang meraih treble winner bersama Barcelona adalah...",
+        "options":  [
+                        "Gerard Piqué",
+                        "Marc Bartra",
+                        "Marc Valiente",
+                        "Inigo Martinez"
+                    ],
+        "correctAnswerIndex":  0
+    },
+    {
+        "id":  35,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/35_jordi_alba.jpg",
+        "questionText":  "Bek kiri cepat asal Spanyol yang lama berkarier di Barcelona adalah...",
+        "options":  [
+                        "Alejandro Balde",
+                        "Jordi Alba",
+                        "José Gayà",
+                        "Nacho Monreal"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  36,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/36_sergio_busquets.jpg",
+        "questionText":  "Gelandang bertahan poros tiki-taka Barcelona dan timnas Spanyol adalah...",
+        "options":  [
+                        "Javier Mascherano",
+                        "Sergio Busquets",
+                        "Seydou Keita",
+                        "Alex Song"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  37,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/37_dani_alves.jpg",
+        "questionText":  "Bek kanan Brasil pemegang rekor puluhan trofi bergengsi sepanjang kariernya adalah...",
+        "options":  [
+                        "Dani Alves",
+                        "Danilo",
+                        "Maicon",
+                        "Fagner"
+                    ],
+        "correctAnswerIndex":  0
+    },
+    {
+        "id":  38,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/38_gianluigi_buffon.jpg",
+        "questionText":  "Kiper legendaris Italia dan Juventus peraih Piala Dunia 2006 adalah...",
+        "options":  [
+                        "Dino Zoff",
+                        "Gianluigi Donnarumma",
+                        "Gianluigi Buffon",
+                        "Francesco Toldo"
+                    ],
+        "correctAnswerIndex":  2
+    },
+    {
+        "id":  39,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/39_giorgio_chiellini.jpg",
+        "questionText":  "Bek tangguh kapten Italia saat menjuarai Euro 2020 adalah...",
+        "options":  [
+                        "Leonardo Bonucci",
+                        "Giorgio Chiellini",
+                        "Andrea Barzagli",
+                        "Francesco Acerbi"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  40,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/40_leonardo_bonucci.jpg",
+        "questionText":  "Bek tengah Italia spesialis operan jauh bagian trio \u0027BBC\u0027 Juventus adalah...",
+        "options":  [
+                        "Giorgio Chiellini",
+                        "Leonardo Bonucci",
+                        "Daniele Rugani",
+                        "Mattia Caldara"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  41,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/41_wayne_rooney.jpg",
+        "questionText":  "Top skor sepanjang masa Manchester United berjuluk \u0027Wazza\u0027 adalah...",
+        "options":  [
+                        "Marcus Rashford",
+                        "Ruud van Nistelrooy",
+                        "Wayne Rooney",
+                        "Andy Cole"
+                    ],
+        "correctAnswerIndex":  2
+    },
+    {
+        "id":  42,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/42_thierry_henry.jpg",
+        "questionText":  "Top skor sepanjang masa Arsenal dan ikon \u0027The Invincibles\u0027 adalah...",
+        "options":  [
+                        "Nicolas Anelka",
+                        "Thierry Henry",
+                        "Ian Wright",
+                        "Robert Pires"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  43,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/43_steven_gerrard.jpg",
+        "questionText":  "Kapten ikonik Liverpool nomor 8 pahlawan \u0027Miracle of Istanbul 2005\u0027 adalah...",
+        "options":  [
+                        "Frank Lampard",
+                        "Steven Gerrard",
+                        "Jordan Henderson",
+                        "Paul Scholes"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  44,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/44_frank_lampard.jpg",
+        "questionText":  "Top skor sepanjang masa Chelsea dan legenda gelandang Inggris adalah...",
+        "options":  [
+                        "John Terry",
+                        "Michael Ballack",
+                        "Frank Lampard",
+                        "Didier Drogba"
+                    ],
+        "correctAnswerIndex":  2
+    },
+    {
+        "id":  45,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/45_john_terry.jpg",
+        "questionText":  "Kapten legendaris bertembok kokoh di lini belakang Chelsea adalah...",
+        "options":  [
+                        "John Terry",
+                        "Gary Cahill",
+                        "Ricardo Carvalho",
+                        "William Gallas"
+                    ],
+        "correctAnswerIndex":  0
+    },
+    {
+        "id":  46,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/46_petr_ech.jpg",
+        "questionText":  "Kiper legendaris Chelsea dan Arsenal pemegang rekor clean sheet EPL terbanyak adalah...",
+        "options":  [
+                        "Carlo Cudicini",
+                        "Petr Čech",
+                        "Thibaut Courtois",
+                        "Asmir Begović"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  47,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/47_david_beckham.jpg",
+        "questionText":  "Bintang Inggris spesialis tendangan bebas melengkung pemilik nomor 7 legendaris di MU adalah...",
+        "options":  [
+                        "David Beckham",
+                        "Paul Scholes",
+                        "Steven Gerrard",
+                        "Frank Lampard"
+                    ],
+        "correctAnswerIndex":  0
+    },
+    {
+        "id":  48,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/48_ryan_giggs.jpg",
+        "questionText":  "Winger legendaris Manchester United asal Wales pemilik rekor penampilan terbanyak di klub adalah...",
+        "options":  [
+                        "Mark Hughes",
+                        "Ian Rush",
+                        "Ryan Giggs",
+                        "Gary Speed"
+                    ],
+        "correctAnswerIndex":  2
+    },
+    {
+        "id":  49,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/49_rio_ferdinand.jpg",
+        "questionText":  "Bek tangguh legendaris Inggris bernomor 5 di Manchester United adalah...",
+        "options":  [
+                        "John Terry",
+                        "Rio Ferdinand",
+                        "Sol Campbell",
+                        "Jamie Carragher"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  50,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/50_nemanja_vidi_.jpg",
+        "questionText":  "Bek kokoh tanpa kompromi asal Serbia yang menjadi kapten Manchester United adalah...",
+        "options":  [
+                        "Branislav Ivanović",
+                        "Nemanja Vidić",
+                        "Aleksandar Kolarov",
+                        "Siniša Mihajlović"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  51,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/51_miroslav_klose.jpg",
+        "questionText":  "Top skor sepanjang masa turnamen Piala Dunia (16 gol) asal Jerman adalah...",
+        "options":  [
+                        "Gerd Müller",
+                        "Miroslav Klose",
+                        "Jürgen Klinsmann",
+                        "Rudi Völler"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  52,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/52_bastian_schweinsteiger.jpg",
+        "questionText":  "Gelandang petarung Jerman yang tampil heroik di final Piala Dunia 2014 adalah...",
+        "options":  [
+                        "Michael Ballack",
+                        "Sami Khedira",
+                        "Bastian Schweinsteiger",
+                        "Torsten Frings"
+                    ],
+        "correctAnswerIndex":  2
+    },
+    {
+        "id":  53,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/53_philipp_lahm.jpg",
+        "questionText":  "Kapten serbaguna Bayern Munich dan Jerman peraih Piala Dunia 2014 adalah...",
+        "options":  [
+                        "Philipp Lahm",
+                        "Joshua Kimmich",
+                        "Holger Badstuber",
+                        "David Alaba"
+                    ],
+        "correctAnswerIndex":  0
+    },
+    {
+        "id":  54,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/54_arjen_robben.jpg",
+        "questionText":  "Winger Belanda terkenal dengan gerakan \u0027cut inside\u0027 mematikan di Bayern Munich adalah...",
+        "options":  [
+                        "Robin van Persie",
+                        "Wesley Sneijder",
+                        "Arjen Robben",
+                        "Dirk Kuyt"
+                    ],
+        "correctAnswerIndex":  2
+    },
+    {
+        "id":  55,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/55_franck_rib_ry.jpg",
+        "questionText":  "Winger lincah Prancis yang membentuk duo maut \u0027Robbery\u0027 di Bayern Munich adalah...",
+        "options":  [
+                        "Franck Ribéry",
+                        "Florent Malouda",
+                        "Samir Nasri",
+                        "Sylvain Wiltord"
+                    ],
+        "correctAnswerIndex":  0
+    },
+    {
+        "id":  56,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/56_wesley_sneijder.jpg",
+        "questionText":  "Playmaker Belanda pilar utama treble winner Inter Milan tahun 2010 adalah...",
+        "options":  [
+                        "Rafael van der Vaart",
+                        "Wesley Sneijder",
+                        "Clarence Seedorf",
+                        "Mark van Bommel"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  57,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/57_robin_van_persie.jpg",
+        "questionText":  "Striker Belanda pencetak gol sundulan terbang ikonik di Piala Dunia 2014 adalah...",
+        "options":  [
+                        "Ruud van Nistelrooy",
+                        "Klaas-Jan Huntelaar",
+                        "Robin van Persie",
+                        "Patrick Kluivert"
+                    ],
+        "correctAnswerIndex":  2
+    },
+    {
+        "id":  58,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/58_ruud_van_nistelrooy.jpg",
+        "questionText":  "Predator kotak penalti Belanda yang menjadi mesin gol MU dan Real Madrid adalah...",
+        "options":  [
+                        "Roy Makaay",
+                        "Ruud van Nistelrooy",
+                        "Jimmy Floyd Hasselbaink",
+                        "Pierre van Hooijdonk"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  59,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/59_roberto_carlos.jpg",
+        "questionText":  "Bek kiri legendaris Brasil pemilik tendangan bebas lengkung spektakuler adalah...",
+        "options":  [
+                        "Cafu",
+                        "Roberto Carlos",
+                        "Branco",
+                        "Júnior"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  60,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/60_cafu.jpg",
+        "questionText":  "Kapten timnas Brasil yang mengangkat trofi Piala Dunia 2002 adalah...",
+        "options":  [
+                        "Cafu",
+                        "Maicon",
+                        "Dani Alves",
+                        "Jorginho"
+                    ],
+        "correctAnswerIndex":  0
+    },
+    {
+        "id":  61,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/61_rivaldo.jpg",
+        "questionText":  "Pemenang Ballon d\u0027Or 1999 dan anggota trio \u00273R\u0027 Brasil 2002 adalah...",
+        "options":  [
+                        "Romário",
+                        "Rivaldo",
+                        "Robinho",
+                        "Ronaldo"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  62,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/62_ronaldo_naz_rio.jpg",
+        "questionText":  "Striker fenomenal Brasil berjuluk \u0027El Fenomeno\u0027 peraih 2 Ballon d\u0027Or adalah...",
+        "options":  [
+                        "Adriano",
+                        "Romário",
+                        "Ronaldo Nazário",
+                        "Careca"
+                    ],
+        "correctAnswerIndex":  2
+    },
+    {
+        "id":  63,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/63_rom_rio.jpg",
+        "questionText":  "Striker legendaris Brasil pahlawan utama gelar Piala Dunia 1994 di AS adalah...",
+        "options":  [
+                        "Bebeto",
+                        "Romário",
+                        "Müller",
+                        "Careca"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  64,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/64_diego_maradona.jpg",
+        "questionText":  "Legenda abadi Argentina pencetak gol \u0027Tangan Tuhan\u0027 di Piala Dunia 1986 adalah...",
+        "options":  [
+                        "Mario Kempes",
+                        "Diego Maradona",
+                        "Gabriel Batistuta",
+                        "Claudio Caniggia"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  65,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/65_gabriel_batistuta.jpg",
+        "questionText":  "Striker tajam legendaris Argentina yang dijuluki \u0027Batigol\u0027 adalah...",
+        "options":  [
+                        "Hernán Crespo",
+                        "Gabriel Batistuta",
+                        "Claudio López",
+                        "Javier Saviola"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  66,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/66_javier_zanetti.jpg",
+        "questionText":  "Kapten legendaris Inter Milan berjuluk \u0027Il Capitano\u0027 bernomor 4 adalah...",
+        "options":  [
+                        "Esteban Cambiasso",
+                        "Walter Samuel",
+                        "Javier Zanetti",
+                        "Diego Milito"
+                    ],
+        "correctAnswerIndex":  2
+    },
+    {
+        "id":  67,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/67_paul_scholes.jpg",
+        "questionText":  "Gelandang legendaris Manchester United dengan akurasi umpan jarak jauh luar biasa adalah...",
+        "options":  [
+                        "Nicky Butt",
+                        "Roy Keane",
+                        "Paul Scholes",
+                        "Darren Fletcher"
+                    ],
+        "correctAnswerIndex":  2
+    },
+    {
+        "id":  68,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/68_roy_keane.jpg",
+        "questionText":  "Kapten bertemperamen garang yang memimpin era keemasan Manchester United adalah...",
+        "options":  [
+                        "Roy Keane",
+                        "Denis Irwin",
+                        "Gary Neville",
+                        "Steve Bruce"
+                    ],
+        "correctAnswerIndex":  0
+    },
+    {
+        "id":  69,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/69_eric_cantona.jpg",
+        "questionText":  "Legenda Manchester United berjuluk \u0027The King\u0027 dengan ciri khas kerah tegak adalah...",
+        "options":  [
+                        "David Ginola",
+                        "Eric Cantona",
+                        "Jean-Pierre Papin",
+                        "Thierry Henry"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  70,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/70_peter_schmeichel.jpg",
+        "questionText":  "Kiper legendaris Denmark pilar treble winner Manchester United 1999 adalah...",
+        "options":  [
+                        "Kasper Schmeichel",
+                        "Peter Schmeichel",
+                        "Edwin van der Sar",
+                        "Thomas Sørensen"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  71,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/71_edwin_van_der_sar.jpg",
+        "questionText":  "Kiper legendaris Belanda penentu kemenangan MU di final Liga Champions 2008 adalah...",
+        "options":  [
+                        "Edwin van der Sar",
+                        "Hans van Breukelen",
+                        "Maarten Stekelenburg",
+                        "Tim Krul"
+                    ],
+        "correctAnswerIndex":  0
+    },
+    {
+        "id":  72,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/72_dennis_bergkamp.jpg",
+        "questionText":  "Playmaker genius Belanda berjuluk \u0027Non-Flying Dutchman\u0027 di Arsenal adalah...",
+        "options":  [
+                        "Dennis Bergkamp",
+                        "Robin van Persie",
+                        "Marc Overmars",
+                        "Clarence Seedorf"
+                    ],
+        "correctAnswerIndex":  0
+    },
+    {
+        "id":  73,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/73_patrick_vieira.jpg",
+        "questionText":  "Kapten \u0027The Invincibles\u0027 Arsenal asal Prancis yang bertarung di lini tengah adalah...",
+        "options":  [
+                        "Emmanuel Petit",
+                        "Patrick Vieira",
+                        "Gilberto Silva",
+                        "Alex Song"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  74,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/74_robert_pir_s.jpg",
+        "questionText":  "Winger Prancis elegan andalan skuad tak terkalahkan Arsenal era Wenger adalah...",
+        "options":  [
+                        "Sylvain Wiltord",
+                        "Robert Pirès",
+                        "Freddie Ljungberg",
+                        "Samir Nasri"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  75,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/75_alan_shearer.jpg",
+        "questionText":  "Top skor sepanjang masa Premier League (260 gol) legenda Newcastle United adalah...",
+        "options":  [
+                        "Alan Shearer",
+                        "Michael Owen",
+                        "Andy Cole",
+                        "Les Ferdinand"
+                    ],
+        "correctAnswerIndex":  0
+    },
+    {
+        "id":  76,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/76_michael_owen.jpg",
+        "questionText":  "Striker lincah Inggris peraih Ballon d\u0027Or 2001 saat membela Liverpool adalah...",
+        "options":  [
+                        "Robbie Fowler",
+                        "Michael Owen",
+                        "Teddy Sheringham",
+                        "Emile Heskey"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  77,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/77_fernando_torres.jpg",
+        "questionText":  "Striker Spanyol berjuluk \u0027El Niño\u0027 yang mematikan di Liverpool dan Atletico Madrid adalah...",
+        "options":  [
+                        "David Villa",
+                        "Fernando Torres",
+                        "Fernando Morientes",
+                        "Álvaro Negredo"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  78,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/78_david_villa.jpg",
+        "questionText":  "Top skor sepanjang masa timnas Spanyol berjuluk \u0027El Guaje\u0027 adalah...",
+        "options":  [
+                        "Raúl González",
+                        "Fernando Torres",
+                        "David Villa",
+                        "Pedro Rodríguez"
+                    ],
+        "correctAnswerIndex":  2
+    },
+    {
+        "id":  79,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/79_ra_l_gonz_lez.jpg",
+        "questionText":  "Pangeran Real Madrid nomor 7 sebelum era Cristiano Ronaldo adalah...",
+        "options":  [
+                        "Guti Hernandez",
+                        "Raúl González",
+                        "Fernando Morientes",
+                        "Emilio Butragueño"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  80,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/80_xabi_alonso.jpg",
+        "questionText":  "Gelandang pengatur tempo Spanyol yang membela Liverpool, Real Madrid, dan Bayern Munich adalah...",
+        "options":  [
+                        "Sergio Busquets",
+                        "Marcos Senna",
+                        "Xabi Alonso",
+                        "Mikel Arteta"
+                    ],
+        "correctAnswerIndex":  2
+    },
+    {
+        "id":  81,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/81_carles_puyol.jpg",
+        "questionText":  "Kapten berambut ikal tangguh yang menjadi benteng pertahanan legendaris Barcelona adalah...",
+        "options":  [
+                        "Carles Puyol",
+                        "Gerard Piqué",
+                        "Jordi Alba",
+                        "Sergio Ramos"
+                    ],
+        "correctAnswerIndex":  0
+    },
+    {
+        "id":  82,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/82_iker_casillas.jpg",
+        "questionText":  "Kiper legendaris berjuluk \u0027San Iker\u0027 kapten Spanyol juara Piala Dunia 2010 adalah...",
+        "options":  [
+                        "Iker Casillas",
+                        "Victor Valdés",
+                        "David de Gea",
+                        "Pepe Reina"
+                    ],
+        "correctAnswerIndex":  0
+    },
+    {
+        "id":  83,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/83_andr_s_iniesta.jpg",
+        "questionText":  "Gelandang Spanyol pencetak gol tunggal di final Piala Dunia 2010 adalah...",
+        "options":  [
+                        "Xavi Hernandez",
+                        "Andrés Iniesta",
+                        "David Silva",
+                        "Cesc Fàbregas"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  84,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/84_xavi_hern_ndez.jpg",
+        "questionText":  "Maestro lini tengah Barcelona dan konduktor strategi tiki-taka Spanyol adalah...",
+        "options":  [
+                        "Andrés Iniesta",
+                        "Xabi Alonso",
+                        "Xavi Hernández",
+                        "Sergio Busquets"
+                    ],
+        "correctAnswerIndex":  2
+    },
+    {
+        "id":  85,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/85_andrea_pirlo.jpg",
+        "questionText":  "Regista Italia berjuluk \u0027L\u0027Architetto\u0027 dengan keahlian tendangan bebas akurat adalah...",
+        "options":  [
+                        "Gennaro Gattuso",
+                        "Andrea Pirlo",
+                        "Claudio Marchisio",
+                        "Daniele De Rossi"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  86,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/86_francesco_totti.jpg",
+        "questionText":  "Ikon setia dan pangeran AS Roma sepanjang kariernya adalah...",
+        "options":  [
+                        "Daniele De Rossi",
+                        "Alessandro Florenzi",
+                        "Francesco Totti",
+                        "Antonio Cassano"
+                    ],
+        "correctAnswerIndex":  2
+    },
+    {
+        "id":  87,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/87_alessandro_del_piero.jpg",
+        "questionText":  "Legenda nomor 10 Juventus berjuluk \u0027Il Pinturicchio\u0027 adalah...",
+        "options":  [
+                        "Alessandro Del Piero",
+                        "Roberto Baggio",
+                        "Gianfranco Zola",
+                        "Filippo Inzaghi"
+                    ],
+        "correctAnswerIndex":  0
+    },
+    {
+        "id":  88,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/88_paolo_maldini.jpg",
+        "questionText":  "Bek kiri legendaris AC Milan bernomor punggung 3 yang dipensiunkan adalah...",
+        "options":  [
+                        "Franco Baresi",
+                        "Paolo Maldini",
+                        "Alessandro Costacurta",
+                        "Mauro Tassotti"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  89,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/89_franco_baresi.jpg",
+        "questionText":  "Sweeper legendaris Italia bernomor punggung 6 AC Milan adalah...",
+        "options":  [
+                        "Franco Baresi",
+                        "Alessandro Costacurta",
+                        "Mauro Tassotti",
+                        "Filippo Galli"
+                    ],
+        "correctAnswerIndex":  0
+    },
+    {
+        "id":  90,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/90_alessandro_nesta.jpg",
+        "questionText":  "Bek tengah elegan Italia yang melegenda bersama Lazio dan AC Milan adalah...",
+        "options":  [
+                        "Fabio Cannavaro",
+                        "Alessandro Nesta",
+                        "Marco Materazzi",
+                        "Giorgio Chiellini"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  91,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/91_fabio_cannavaro.jpg",
+        "questionText":  "Kapten Italia juara Piala Dunia 2006 peraih Ballon d\u0027Or 2006 adalah...",
+        "options":  [
+                        "Fabio Cannavaro",
+                        "Alessandro Nesta",
+                        "Gianluca Zambrotta",
+                        "Christian Panucci"
+                    ],
+        "correctAnswerIndex":  0
+    },
+    {
+        "id":  92,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/92_samuel_eto_o.jpg",
+        "questionText":  "Striker legendaris Kamerun peraih treble bersama Barcelona (2009) dan Inter (2010) adalah...",
+        "options":  [
+                        "Roger Milla",
+                        "Samuel Eto\u0027o",
+                        "Patrick M\u0027Boma",
+                        "Rigobert Song"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  93,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/93_george_weah.jpg",
+        "questionText":  "Satu-satunya pemain Afrika peraih Ballon d\u0027Or (1995) dan legenda AC Milan adalah...",
+        "options":  [
+                        "George Weah",
+                        "Didier Drogba",
+                        "Samuel Eto\u0027o",
+                        "Abedi Pele"
+                    ],
+        "correctAnswerIndex":  0
+    },
+    {
+        "id":  94,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/94_clarence_seedorf.jpg",
+        "questionText":  "Satu-satunya pemain penakluk Liga Champions dengan 3 klub berbeda (Ajax, Real Madrid, Milan) adalah...",
+        "options":  [
+                        "Edgar Davids",
+                        "Clarence Seedorf",
+                        "Patrick Kluivert",
+                        "Ruud Gullit"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  95,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/95_ruud_gullit.jpg",
+        "questionText":  "Bintang serbaguna Belanda peraih Ballon d\u0027Or 1987 pilar AC Milan adalah...",
+        "options":  [
+                        "Marco van Basten",
+                        "Ruud Gullit",
+                        "Frank Rijkaard",
+                        "Ronald Koeman"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  96,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/96_marco_van_basten.jpg",
+        "questionText":  "Striker Belanda peraih 3 Ballon d\u0027Or pencetak gol voli spektakuler Euro 1988 adalah...",
+        "options":  [
+                        "Marco van Basten",
+                        "Ruud van Nistelrooy",
+                        "Patrick Kluivert",
+                        "Dennis Bergkamp"
+                    ],
+        "correctAnswerIndex":  0
+    },
+    {
+        "id":  97,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/97_frank_rijkaard.jpg",
+        "questionText":  "Gelandang bertahan elegan trio Belanda di Milan yang sukses melatih Barcelona adalah...",
+        "options":  [
+                        "Ronald Koeman",
+                        "Frank Rijkaard",
+                        "Johan Neeskens",
+                        "Guus Hiddink"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  98,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/98_oliver_kahn.jpg",
+        "questionText":  "Kiper legendaris Bayern Munich berjuluk \u0027Der Titan\u0027 peraih Golden Ball Piala Dunia 2002 adalah...",
+        "options":  [
+                        "Jens Lehmann",
+                        "Oliver Kahn",
+                        "Bodo Illgner",
+                        "Sepp Maier"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  99,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/99_michael_ballack.jpg",
+        "questionText":  "Gelandang dan kapten karismatik Jerman era 2000-an bernomor punggung 13 adalah...",
+        "options":  [
+                        "Torsten Frings",
+                        "Michael Ballack",
+                        "Bernd Schneider",
+                        "Dietmar Hamann"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  100,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/100_zlatan_ibrahimovi_.jpg",
+        "questionText":  "Striker akrobatik Swedia berjuluk \u0027Ibracadabra\u0027 yang melegenda di banyak klub top Eropa adalah...",
+        "options":  [
+                        "Henrik Larsson",
+                        "Zlatan Ibrahimović",
+                        "Alexander Isak",
+                        "Emil Forsberg"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  101,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/101_johan_cruyff.jpg",
+        "questionText":  "Pencetus filosofi Total Football dan legenda abadi Ajax serta Barcelona peraih 3 Ballon d\u0027Or adalah...",
+        "options":  [
+                        "Johan Cruyff",
+                        "Rinus Michels",
+                        "Johan Neeskens",
+                        "Wim van Hanegem"
+                    ],
+        "correctAnswerIndex":  0
+    },
+    {
+        "id":  102,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/102_franz_beckenbauer.jpg",
+        "questionText":  "Legenda Jerman berjuluk \u0027Der Kaiser\u0027 yang menyempurnakan peran libero modern adalah...",
+        "options":  [
+                        "Gerd Müller",
+                        "Franz Beckenbauer",
+                        "Sepp Maier",
+                        "Paul Breitner"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  103,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/103_gerd_m_ller.jpg",
+        "questionText":  "Striker legendaris Jerman berjuluk \u0027Der Bomber\u0027 pencetak ratusan gol untuk Bayern Munich adalah...",
+        "options":  [
+                        "Uli Hoeness",
+                        "Gerd Müller",
+                        "Jupp Heynckes",
+                        "Karl-Heinz Rummenigge"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  104,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/104_lev_yashin.jpg",
+        "questionText":  "Satu-satunya penjaga gawang dalam sejarah peraih gelar Ballon d\u0027Or (1963) berjuluk \u0027Black Spider\u0027 adalah...",
+        "options":  [
+                        "Dino Zoff",
+                        "Gordon Banks",
+                        "Lev Yashin",
+                        "Sepp Maier"
+                    ],
+        "correctAnswerIndex":  2
+    },
+    {
+        "id":  105,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/105_michel_platini.jpg",
+        "questionText":  "Maestro lini tengah Prancis peraih 3 Ballon d\u0027Or beruntun dan top skor Euro 1984 adalah...",
+        "options":  [
+                        "Alain Giresse",
+                        "Michel Platini",
+                        "Jean Tigana",
+                        "Raymond Kopa"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  106,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/106_roberto_baggio.jpg",
+        "questionText":  "Bintang Italia berjuluk \u0027Il Divin Codino\u0027 (The Divine Ponytail) peraih Ballon d\u0027Or 1993 adalah...",
+        "options":  [
+                        "Gianfranco Zola",
+                        "Roberto Mancini",
+                        "Roberto Baggio",
+                        "Gianluca Vialli"
+                    ],
+        "correctAnswerIndex":  2
+    },
+    {
+        "id":  107,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/107_pavel_nedv_d.jpg",
+        "questionText":  "Gelandang bertenaga kuda asal Ceko peraih Ballon d\u0027Or 2003 saat membela Juventus adalah...",
+        "options":  [
+                        "Karel Poborský",
+                        "Tomáš Rosický",
+                        "Pavel Nedvěd",
+                        "Milan Baroš"
+                    ],
+        "correctAnswerIndex":  2
+    },
+    {
+        "id":  108,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/108_andriy_shevchenko.jpg",
+        "questionText":  "Striker tajam Ukraina peraih Ballon d\u0027Or 2004 yang menjadi legenda AC Milan adalah...",
+        "options":  [
+                        "Serhiy Rebrov",
+                        "Andriy Shevchenko",
+                        "Andriy Yarmolenko",
+                        "Yevhen Konoplyanka"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  109,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/109_hristo_stoichkov.jpg",
+        "questionText":  "Penyerang tajam Bulgaria peraih Ballon d\u0027Or 1994 pilar \u0027Dream Team\u0027 Barcelona adalah...",
+        "options":  [
+                        "Dimitar Berbatov",
+                        "Hristo Stoichkov",
+                        "Krassimir Balakov",
+                        "Yordan Letchkov"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  110,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/110_lothar_matth_us.jpg",
+        "questionText":  "Kapten Jerman Barat juara Piala Dunia 1990 peraih Ballon d\u0027Or 1990 adalah...",
+        "options":  [
+                        "Andreas Brehme",
+                        "Jürgen Klinsmann",
+                        "Lothar Matthäus",
+                        "Thomas Hässler"
+                    ],
+        "correctAnswerIndex":  2
+    },
+    {
+        "id":  111,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/111_gheorghe_hagi.jpg",
+        "questionText":  "Playmaker genius Rumania berjuluk \u0027Maradona dari Carpathia\u0027 adalah...",
+        "options":  [
+                        "Adrian Mutu",
+                        "Gheorghe Popescu",
+                        "Gheorghe Hagi",
+                        "Dan Petrescu"
+                    ],
+        "correctAnswerIndex":  2
+    },
+    {
+        "id":  112,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/112_garrincha.jpg",
+        "questionText":  "Pemain sayap Brasil berkaki bengkok pahlawan Piala Dunia 1958 dan 1962 berjuluk \u0027The Joy of the People\u0027 adalah...",
+        "options":  [
+                        "Didi",
+                        "Garrincha",
+                        "Vavá",
+                        "Zagallo"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  113,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/113_zico.jpg",
+        "questionText":  "Playmaker legendaris Brasil berjuluk \u0027White Pelé\u0027 spesialis tendangan bebas era 80-an adalah...",
+        "options":  [
+                        "Sócrates",
+                        "Zico",
+                        "Falcao",
+                        "Éder"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  114,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/114_s_crates.jpg",
+        "questionText":  "Kapten Brasil 1982 berpostur tinggi dan berprofesi sebagai dokter medis adalah...",
+        "options":  [
+                        "Sócrates",
+                        "Toninho Cerezo",
+                        "Júnior",
+                        "Careca"
+                    ],
+        "correctAnswerIndex":  0
+    },
+    {
+        "id":  115,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/115_bebeto.jpg",
+        "questionText":  "Penyerang Brasil yang mempopulerkan selebrasi \u0027mengayun bayi\u0027 di Piala Dunia 1994 adalah...",
+        "options":  [
+                        "Müller",
+                        "Romário",
+                        "Bebeto",
+                        "Viola"
+                    ],
+        "correctAnswerIndex":  2
+    },
+    {
+        "id":  116,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/116_dunga.jpg",
+        "questionText":  "Gelandang bertahan sekaligus kapten Brasil saat menjuarai Piala Dunia 1994 adalah...",
+        "options":  [
+                        "Mauro Silva",
+                        "Dunga",
+                        "Mazinho",
+                        "Zinho"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  117,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/117_cl_udio_taffarel.jpg",
+        "questionText":  "Kiper legendaris Brasil pahlawan adu penalti di final Piala Dunia 1994 adalah...",
+        "options":  [
+                        "Dida",
+                        "Cláudio Taffarel",
+                        "Júlio César",
+                        "Marcos"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  118,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/118_dida.jpg",
+        "questionText":  "Kiper jangkung Brasil pilar gawang AC Milan saat menjuarai Liga Champions 2003 dan 2007 adalah...",
+        "options":  [
+                        "Júlio César",
+                        "Dida",
+                        "Doni",
+                        "Gomes"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  119,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/119_j_lio_c_sar.jpg",
+        "questionText":  "Kiper Brasil pilar pertahanan treble winner Inter Milan 2010 adalah...",
+        "options":  [
+                        "Heurelho Gomes",
+                        "Júlio César",
+                        "Diego Cavalieri",
+                        "Neto"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  120,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/120_adriano.jpg",
+        "questionText":  "Striker Brasil berkaki kiri super keras berjuluk \u0027L\u0027Imperatore\u0027 (The Emperor) adalah...",
+        "options":  [
+                        "Grafite",
+                        "Robinho",
+                        "Adriano",
+                        "Luís Fabiano"
+                    ],
+        "correctAnswerIndex":  2
+    },
+    {
+        "id":  121,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/121_robinho.jpg",
+        "questionText":  "Pemain lincah Brasil dengan trik \u0027pedalada\u0027 (stepover) yang pernah membela Santos, Real Madrid, dan Milan adalah...",
+        "options":  [
+                        "Denílson",
+                        "Robinho",
+                        "Pato",
+                        "Diego Ribas"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  122,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/122_alexandre_pato.jpg",
+        "questionText":  "Penyerang muda sensasional Brasil berjuluk \u0027Si Bebek\u0027 yang bersinar di AC Milan adalah...",
+        "options":  [
+                        "Ganso",
+                        "Alexandre Pato",
+                        "Leandro Damião",
+                        "Fred"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  123,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/123_maicon.jpg",
+        "questionText":  "Bek kanan Brasil pencetak gol sudut sempit spektakuler di Piala Dunia 2010 dan pilar treble Inter Milan adalah...",
+        "options":  [
+                        "Dani Alves",
+                        "Maicon",
+                        "Belletti",
+                        "Cicinho"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  124,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/124_l_cio.jpg",
+        "questionText":  "Bek tengah tangguh dan kapten Brasil pilar pertahanan Bayern Munich dan Inter Milan adalah...",
+        "options":  [
+                        "Juan",
+                        "Lúcio",
+                        "Roque Júnior",
+                        "Cris"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  125,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/125_david_luiz.jpg",
+        "questionText":  "Bek Brasil berambut keriting khas yang pernah menjuarai Liga Champions bersama Chelsea adalah...",
+        "options":  [
+                        "Dante",
+                        "David Luiz",
+                        "Marquinhos",
+                        "Gabriel Paulista"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  126,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/126_willian.jpg",
+        "questionText":  "Winger Brasil spesialis tendangan bebas yang lama membela Chelsea dan Arsenal adalah...",
+        "options":  [
+                        "Oscar",
+                        "Willian",
+                        "Lucas Moura",
+                        "Bernard"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  127,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/127_oscar.jpg",
+        "questionText":  "Playmaker muda Brasil yang memakai nomor 10 di Piala Dunia 2014 dan membela Chelsea adalah...",
+        "options":  [
+                        "Ganso",
+                        "Oscar",
+                        "Lucas Piazon",
+                        "Philippe Coutinho"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  128,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/128_philippe_coutinho.jpg",
+        "questionText":  "Gelandang serang Brasil berjuluk \u0027The Little Magician\u0027 eks bintang Liverpool dan Barcelona adalah...",
+        "options":  [
+                        "Roberto Firmino",
+                        "Philippe Coutinho",
+                        "Lucas Paquetá",
+                        "Arthur Melo"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  129,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/129_roberto_firmino.jpg",
+        "questionText":  "Penyerang unik Brasil pelopor peran false nine dalam trio penyerang maut Liverpool adalah...",
+        "options":  [
+                        "Gabriel Jesus",
+                        "Richarlison",
+                        "Roberto Firmino",
+                        "Matheus Cunha"
+                    ],
+        "correctAnswerIndex":  2
+    },
+    {
+        "id":  130,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/130_casemiro.jpg",
+        "questionText":  "Gelandang jangkar pertahanan asal Brasil pemenang 5 Liga Champions bersama Real Madrid adalah...",
+        "options":  [
+                        "Fernandinho",
+                        "Casemiro",
+                        "Fabinho",
+                        "Fred"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  131,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/131_fernandinho.jpg",
+        "questionText":  "Gelandang bertahan dan kapten berpengaruh asal Brasil di Manchester City era Guardiola adalah...",
+        "options":  [
+                        "Fernando",
+                        "Fernandinho",
+                        "Douglas Luiz",
+                        "Allan"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  132,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/132_fabinho.jpg",
+        "questionText":  "Gelandang bertahan Brasil bertubuh jangkung berjuluk \u0027The Hoover\u0027 di Liverpool adalah...",
+        "options":  [
+                        "Fred",
+                        "Fabinho",
+                        "Bruno Guimarães",
+                        "Danilo Pereira"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  133,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/133_alisson_becker.jpg",
+        "questionText":  "Kiper utama Brasil dan Liverpool peraih gelar Yashin Trophy perdana tahun 2019 adalah...",
+        "options":  [
+                        "Ederson",
+                        "Alisson Becker",
+                        "Weverton",
+                        "Neto"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  134,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/134_ederson_moraes.jpg",
+        "questionText":  "Kiper Brasil di Manchester City yang terkenal dengan akurasi umpan jauh mematikan adalah...",
+        "options":  [
+                        "Alisson Becker",
+                        "Ederson Moraes",
+                        "Diego Alves",
+                        "Claudio Bravo"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  135,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/135_vin_cius_j_nior.jpg",
+        "questionText":  "Winger lincah Brasil pencetak gol penentu kemenangan Real Madrid di final UCL 2022 adalah...",
+        "options":  [
+                        "Rodrygo",
+                        "Vinícius Júnior",
+                        "Antony",
+                        "Raphinha"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  136,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/136_rodrygo.jpg",
+        "questionText":  "Penyerang sayap muda Brasil pahlawan comeback dramatis Real Madrid melawan Manchester City 2022 adalah...",
+        "options":  [
+                        "Vinícius Júnior",
+                        "Rodrygo",
+                        "Endrick",
+                        "Reinier"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  137,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/137_gabriel_jesus.jpg",
+        "questionText":  "Striker Brasil yang pernah menjuarai Premier League bersama Manchester City sebelum pindah ke Arsenal adalah...",
+        "options":  [
+                        "Richarlison",
+                        "Gabriel Jesus",
+                        "Gabriel Martinelli",
+                        "Pedro"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  138,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/138_richarlison.jpg",
+        "questionText":  "Penyerang Brasil berjuluk \u0027O Pombo\u0027 pencetak gol tendangan gunting indah di Piala Dunia 2022 adalah...",
+        "options":  [
+                        "Matheus Cunha",
+                        "Richarlison",
+                        "Gabriel Barbosa",
+                        "Everton Soares"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  139,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/139_hern_n_crespo.jpg",
+        "questionText":  "Striker elegan Argentina yang pernah membela Parma, Lazio, Inter, Chelsea, dan Milan adalah...",
+        "options":  [
+                        "Gabriel Batistuta",
+                        "Hernán Crespo",
+                        "Claudio Caniggia",
+                        "Julio Cruz"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  140,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/140_juan_rom_n_riquelme.jpg",
+        "questionText":  "Playmaker klasik Argentina bernomor 10 yang melegenda di Boca Juniors dan Villarreal adalah...",
+        "options":  [
+                        "Pablo Aimar",
+                        "Juan Román Riquelme",
+                        "Ariel Ortega",
+                        "Marcelo Gallardo"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  141,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/141_pablo_aimar.jpg",
+        "questionText":  "Gelandang serang lincah Argentina idola masa kecil Lionel Messi yang bersinar di Valencia adalah...",
+        "options":  [
+                        "Javier Saviola",
+                        "Pablo Aimar",
+                        "Kily González",
+                        "Andrés D\u0027Alessandro"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  142,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/142_javier_mascherano.jpg",
+        "questionText":  "Gelandang/bek petarung tangguh Argentina berjuluk \u0027El Jefecito\u0027 legenda Barcelona adalah...",
+        "options":  [
+                        "Esteban Cambiasso",
+                        "Javier Mascherano",
+                        "Fernando Gago",
+                        "Lucas Biglia"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  143,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/143_esteban_cambiasso.jpg",
+        "questionText":  "Gelandang bertahan cerdas Argentina pilar utama treble winner Inter Milan 2010 adalah...",
+        "options":  [
+                        "Juan Sebastián Verón",
+                        "Esteban Cambiasso",
+                        "Diego Simeone",
+                        "Fernando Redondo"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  144,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/144_juan_sebasti_n_ver_n.jpg",
+        "questionText":  "Playmaker berkepala plontos asal Argentina berjuluk \u0027La Brujita\u0027 legenda Lazio dan Parma adalah...",
+        "options":  [
+                        "Matías Almeyda",
+                        "Juan Sebastián Verón",
+                        "Diego Simeone",
+                        "Marcelo Gallardo"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  145,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/145_diego_simeone.jpg",
+        "questionText":  "Gelandang petarung Argentina era 90-an yang kemudian sukses besar melatih Atletico Madrid adalah...",
+        "options":  [
+                        "Mauricio Pochettino",
+                        "Diego Simeone",
+                        "Marcelo Bielsa",
+                        "Jorge Sampaoli"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  146,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/146_carlos_t_vez.jpg",
+        "questionText":  "Striker bertenaga badai asal Argentina berjuluk \u0027El Apache\u0027 yang membela duo Manchester dan Juventus adalah...",
+        "options":  [
+                        "Gonzalo Higuaín",
+                        "Carlos Tévez",
+                        "Sergio Agüero",
+                        "Ezequiel Lavezzi"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  147,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/147_gonzalo_higua_n.jpg",
+        "questionText":  "Striker tajam Argentina berjuluk \u0027El Pipita\u0027 pemecah rekor gol Serie A bersama Napoli adalah...",
+        "options":  [
+                        "Mauro Icardi",
+                        "Gonzalo Higuaín",
+                        "Rodrigo Palacio",
+                        "Lucas Pratto"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  148,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/148__ngel_di_mar_a.jpg",
+        "questionText":  "Winger kidal Argentina pencetak gol di final Olimpiade 2008, Copa America 2021, dan Piala Dunia 2022 adalah...",
+        "options":  [
+                        "Ezequiel Lavezzi",
+                        "Ángel Di María",
+                        "Nicolás Gaitán",
+                        "Erik Lamela"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  149,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/149_paulo_dybala.jpg",
+        "questionText":  "Penyerang kreatif kidal Argentina berjuluk \u0027La Joya\u0027 dengan selebrasi khas topeng adalah...",
+        "options":  [
+                        "Lautaro Martínez",
+                        "Paulo Dybala",
+                        "Joaquín Correa",
+                        "Alejandro Gómez"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  150,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/150_lautaro_mart_nez.jpg",
+        "questionText":  "Striker andalan Argentina berjuluk \u0027El Toro\u0027 yang menjadi kapten dan mesin gol Inter Milan adalah...",
+        "options":  [
+                        "Julián Álvarez",
+                        "Lautaro Martínez",
+                        "Mauro Icardi",
+                        "Giovanni Simeone"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  151,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/151_juli_n_lvarez.jpg",
+        "questionText":  "Penyerang muda Argentina berjuluk \u0027La Araña\u0027 yang menjuarai Piala Dunia dan treble winner di usia muda adalah...",
+        "options":  [
+                        "Lautaro Martínez",
+                        "Julián Álvarez",
+                        "Alejandro Garnacho",
+                        "Joaquín Correa"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  152,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/152_emiliano_mart_nez.jpg",
+        "questionText":  "Kiper eksentrik Argentina berjuluk \u0027Dibu\u0027 peraih Golden Glove Piala Dunia 2022 adalah...",
+        "options":  [
+                        "Franco Armani",
+                        "Emiliano Martínez",
+                        "Gerónimo Rulli",
+                        "Agustín Marchesín"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  153,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/153_enzo_fern_ndez.jpg",
+        "questionText":  "Gelandang muda Argentina peraih penghargaan Best Young Player di Piala Dunia 2022 adalah...",
+        "options":  [
+                        "Alexis Mac Allister",
+                        "Enzo Fernández",
+                        "Rodrigo De Paul",
+                        "Leandro Paredes"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  154,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/154_alexis_mac_allister.jpg",
+        "questionText":  "Gelandang cerdas Argentina berdarah Irlandia yang menjadi pilar juara dunia 2022 dan Liverpool adalah...",
+        "options":  [
+                        "Enzo Fernández",
+                        "Alexis Mac Allister",
+                        "Exequiel Palacios",
+                        "Guido Rodríguez"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  155,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/155_rodrigo_de_paul.jpg",
+        "questionText":  "Gelandang pekerja keras Argentina yang sering dijuluki \u0027Bodyguard Messi\u0027 adalah...",
+        "options":  [
+                        "Leandro Paredes",
+                        "Rodrigo De Paul",
+                        "Giovani Lo Celso",
+                        "Marcos Acuña"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  156,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/156_cristian_romero.jpg",
+        "questionText":  "Bek tengah tanpa kompromi asal Argentina berjuluk \u0027Cuti\u0027 pilar lini belakang Tottenham Hotspur adalah...",
+        "options":  [
+                        "Nicolás Otamendi",
+                        "Cristian Romero",
+                        "Lisandro Martínez",
+                        "Germán Pezzella"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  157,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/157_lisandro_mart_nez.jpg",
+        "questionText":  "Bek tengah tangguh Argentina berjuluk \u0027The Butcher\u0027 yang membela Manchester United adalah...",
+        "options":  [
+                        "Marcos Senesi",
+                        "Lisandro Martínez",
+                        "Facundo Medina",
+                        "Lucas Martínez Quarta"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  158,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/158_nicol_s_otamendi.jpg",
+        "questionText":  "Bek veteran Argentina yang mengawal lini pertahanan di final Piala Dunia 2022 dan mantan pemain Man City adalah...",
+        "options":  [
+                        "Ezequiel Garay",
+                        "Nicolás Otamendi",
+                        "Federico Fazio",
+                        "Gabriel Mercado"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  159,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/159_bernardo_silva.jpg",
+        "questionText":  "Playmaker serba bisa Portugal andalan Manchester City dengan kontrol bola sangat rapat adalah...",
+        "options":  [
+                        "Bruno Fernandes",
+                        "Bernardo Silva",
+                        "João Félix",
+                        "Diogo Jota"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  160,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/160_bruno_fernandes.jpg",
+        "questionText":  "Gelandang kreatif sekaligus kapten Manchester United asal Portugal spesialis umpan kunci adalah...",
+        "options":  [
+                        "Rúben Neves",
+                        "Bruno Fernandes",
+                        "João Moutinho",
+                        "Vitinha"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  161,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/161_r_ben_dias.jpg",
+        "questionText":  "Bek tengah tangguh Portugal peraih FWA Footballer of the Year di musim perdananya bersama Man City adalah...",
+        "options":  [
+                        "Pepe",
+                        "Rúben Dias",
+                        "José Fonte",
+                        "Gonçalo Inácio"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  162,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/162_pepe.jpg",
+        "questionText":  "Bek legendaris Portugal yang terkenal tangguh dan tanpa kompromi pilar Real Madrid selama satu dekade adalah...",
+        "options":  [
+                        "Ricardo Carvalho",
+                        "Pepe",
+                        "Bruno Alves",
+                        "Rolando"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  163,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/163_ricardo_carvalho.jpg",
+        "questionText":  "Bek tengah elegan Portugal pilar pertahanan Porto, Chelsea, dan Real Madrid adalah...",
+        "options":  [
+                        "Jorge Andrade",
+                        "Ricardo Carvalho",
+                        "Fernando Couto",
+                        "Paulo Ferreira"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  164,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/164_lu_s_figo.jpg",
+        "questionText":  "Winger legendaris Portugal peraih Ballon d\u0027Or 2000 yang melakukan kepindahan kontroversial dari Barcelona ke Real Madrid adalah...",
+        "options":  [
+                        "Rui Costa",
+                        "Luís Figo",
+                        "Paulo Futre",
+                        "Simão Sabrosa"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  165,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/165_rui_costa.jpg",
+        "questionText":  "Playmaker klasik Portugal nomor 10 yang melegenda bersama Fiorentina dan AC Milan adalah...",
+        "options":  [
+                        "Deco",
+                        "Rui Costa",
+                        "João Pinto",
+                        "Maniche"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  166,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/166_deco.jpg",
+        "questionText":  "Gelandang serang naturalisasi Portugal peraih Liga Champions bersama Porto dan Barcelona adalah...",
+        "options":  [
+                        "Tiago Mendes",
+                        "Deco",
+                        "Costinha",
+                        "Raul Meireles"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  167,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/167_nani.jpg",
+        "questionText":  "Winger lincah Portugal dengan selebrasi salto akrobatik eks bintang Manchester United adalah...",
+        "options":  [
+                        "Ricardo Quaresma",
+                        "Nani",
+                        "Silvestre Varela",
+                        "Bruma"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  168,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/168_ricardo_quaresma.jpg",
+        "questionText":  "Winger sensasional Portugal yang sangat mahir dengan teknik tendangan \u0027Trivela\u0027 dan \u0027Rabona\u0027 adalah...",
+        "options":  [
+                        "Nani",
+                        "Ricardo Quaresma",
+                        "Simão",
+                        "Hugo Viana"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  169,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/169_jo_o_f_lix.jpg",
+        "questionText":  "Penyerang kreatif muda Portugal yang pernah memenangkan penghargaan Golden Boy 2019 adalah...",
+        "options":  [
+                        "Rafael Leão",
+                        "João Félix",
+                        "Gonçalo Ramos",
+                        "Pedro Neto"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  170,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/170_rafael_le_o.jpg",
+        "questionText":  "Winger cepat dan eksplosif Portugal yang menjadi pemain terbaik Serie A bersama AC Milan adalah...",
+        "options":  [
+                        "João Félix",
+                        "Rafael Leão",
+                        "Francisco Conceição",
+                        "Diogo Jota"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  171,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/171_diogo_jota.jpg",
+        "questionText":  "Penyerang serbaguna Portugal yang menjadi mesin gol mematikan di Liverpool adalah...",
+        "options":  [
+                        "Gonçalo Guedes",
+                        "Diogo Jota",
+                        "André Silva",
+                        "Paulinho"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  172,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/172_jo_o_cancelo.jpg",
+        "questionText":  "Bek sayap serbaguna Portugal yang mahir bermain inverted fullback di klub-klub elit Eropa adalah...",
+        "options":  [
+                        "Nélson Semedo",
+                        "João Cancelo",
+                        "Diogo Dalot",
+                        "Nuno Mendes"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  173,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/173_bukayo_saka.jpg",
+        "questionText":  "Winger muda andalan Arsenal dan timnas Inggris berjuluk \u0027Starboy\u0027 adalah...",
+        "options":  [
+                        "Phil Foden",
+                        "Bukayo Saka",
+                        "Jadon Sancho",
+                        "Marcus Rashford"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  174,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/174_phil_foden.jpg",
+        "questionText":  "Gelandang serang kidal Inggris didikan asli akademi Manchester City berjuluk \u0027Stockport Iniesta\u0027 adalah...",
+        "options":  [
+                        "Mason Mount",
+                        "Phil Foden",
+                        "Cole Palmer",
+                        "Jack Grealish"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  175,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/175_jude_bellingham.jpg",
+        "questionText":  "Bintang muda timnas Inggris bernomor punggung 5 di Real Madrid peraih Kopa Trophy 2023 adalah...",
+        "options":  [
+                        "Declan Rice",
+                        "Jude Bellingham",
+                        "Conor Gallagher",
+                        "Kobbie Mainoo"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  176,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/176_declan_rice.jpg",
+        "questionText":  "Gelandang bertahan andalan timnas Inggris yang menjadi jenderal lapangan tengah Arsenal adalah...",
+        "options":  [
+                        "Kalvin Phillips",
+                        "Declan Rice",
+                        "Jordan Henderson",
+                        "James Ward-Prowse"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  177,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/177_marcus_rashford.jpg",
+        "questionText":  "Penyerang sayap cepat jebolan akademi Manchester United nomor punggung 10 adalah...",
+        "options":  [
+                        "Jadon Sancho",
+                        "Marcus Rashford",
+                        "Mason Greenwood",
+                        "Danny Welbeck"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  178,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/178_jack_grealish.jpg",
+        "questionText":  "Winger Inggris dengan gaya kaos kaki rendah khas yang memenangkan treble bersama Man City adalah...",
+        "options":  [
+                        "James Maddison",
+                        "Jack Grealish",
+                        "Harvey Barnes",
+                        "Anthony Gordon"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  179,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/179_trent_alexander_arnold.jpg",
+        "questionText":  "Bek kanan Inggris pemilik umpan silang akurat nomor 66 legendaris di Liverpool adalah...",
+        "options":  [
+                        "Kyle Walker",
+                        "Trent Alexander-Arnold",
+                        "Reece James",
+                        "Kieran Trippier"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  180,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/180_kyle_walker.jpg",
+        "questionText":  "Bek kanan Inggris dengan kecepatan sprint luar biasa pilar pertahanan Manchester City adalah...",
+        "options":  [
+                        "Kieran Trippier",
+                        "Kyle Walker",
+                        "Reece James",
+                        "Aaron Wan-Bissaka"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  181,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/181_jordan_pickford.jpg",
+        "questionText":  "Kiper utama tim nasional Inggris pahlawan drama adu penalti yang membela Everton adalah...",
+        "options":  [
+                        "Aaron Ramsdale",
+                        "Jordan Pickford",
+                        "Nick Pope",
+                        "Dean Henderson"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  182,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/182_raheem_sterling.jpg",
+        "questionText":  "Winger lincah Inggris yang pernah membela Liverpool, Manchester City, Chelsea, dan Arsenal adalah...",
+        "options":  [
+                        "Theo Walcott",
+                        "Raheem Sterling",
+                        "Shaun Wright-Phillips",
+                        "Alex Oxlade-Chamberlain"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  183,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/183_jamie_vardy.jpg",
+        "questionText":  "Striker tajam Inggris pemecah rekor mencetak gol dalam 11 laga beruntun saat membawa Leicester juara EPL adalah...",
+        "options":  [
+                        "Harry Kane",
+                        "Jamie Vardy",
+                        "Danny Ings",
+                        "Callum Wilson"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  184,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/184_riyad_mahrez.jpg",
+        "questionText":  "Winger kidal Aljazair dengan sentuhan pertama ajaib eks bintang Leicester dan Manchester City adalah...",
+        "options":  [
+                        "Sofiane Feghouli",
+                        "Riyad Mahrez",
+                        "Yacine Brahimi",
+                        "Islam Slimani"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  185,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/185_pierre_emerick_aubameyang.jpg",
+        "questionText":  "Striker tajam asal Gabon peraih sepatu emas Premier League bersama Arsenal dan bintang Dortmund adalah...",
+        "options":  [
+                        "Nicolas Pépé",
+                        "Pierre-Emerick Aubameyang",
+                        "Wilfried Zaha",
+                        "Sebastien Haller"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  186,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/186_hakim_ziyech.jpg",
+        "questionText":  "Playmaker kidal Maroko berjuluk \u0027The Wizard\u0027 yang membawa negaranya ke semifinal Piala Dunia 2022 adalah...",
+        "options":  [
+                        "Sofiane Boufal",
+                        "Hakim Ziyech",
+                        "Amine Harit",
+                        "Adel Taarabt"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  187,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/187_achraf_hakimi.jpg",
+        "questionText":  "Bek kanan super cepat timnas Maroko yang membela Paris Saint-Germain adalah...",
+        "options":  [
+                        "Noussair Mazraoui",
+                        "Achraf Hakimi",
+                        "Nayef Aguerd",
+                        "Romain Saïss"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  188,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/188_yassine_bounou.jpg",
+        "questionText":  "Kiper tangguh Maroko berjuluk \u0027Bono\u0027 pahlawan penalti Piala Dunia 2022 dan juara Liga Europa adalah...",
+        "options":  [
+                        "Munir Mohamedi",
+                        "Yassine Bounou",
+                        "Kasper Schmeichel",
+                        "Keylor Navas"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  189,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/189_keylor_navas.jpg",
+        "questionText":  "Kiper Kosta Rika peraih 3 gelar Liga Champions beruntun bersama Real Madrid adalah...",
+        "options":  [
+                        "Claudio Bravo",
+                        "Keylor Navas",
+                        "Willy Caballero",
+                        "Sergio Romero"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  190,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/190_jan_oblak.jpg",
+        "questionText":  "Kiper tangguh Slovenia peraih berkali-kali Zamora Trophy di Atletico Madrid adalah...",
+        "options":  [
+                        "Samir Handanović",
+                        "Jan Oblak",
+                        "Thibaut Courtois",
+                        "Unai Simón"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  191,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/191_thibaut_courtois.jpg",
+        "questionText":  "Kiper jangkung Belgia pemain terbaik di final Liga Champions 2022 bersama Real Madrid adalah...",
+        "options":  [
+                        "Simon Mignolet",
+                        "Thibaut Courtois",
+                        "Koen Casteels",
+                        "Matz Sels"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  192,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/192_romelu_lukaku.jpg",
+        "questionText":  "Top skor sepanjang masa tim nasional Belgia berpostur kekar adalah...",
+        "options":  [
+                        "Christian Benteke",
+                        "Romelu Lukaku",
+                        "Michy Batshuayi",
+                        "Divock Origi"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  193,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/193_dries_mertens.jpg",
+        "questionText":  "Penyerang lincah Belgia yang memecahkan rekor top skor sepanjang masa Napoli adalah...",
+        "options":  [
+                        "Lorenzo Insigne",
+                        "Dries Mertens",
+                        "José Callejón",
+                        "Marek Hamšík"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  194,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/194_marek_ham_k.jpg",
+        "questionText":  "Gelandang legendaris Slovakia dengan gaya rambut mohawk ikonik kapten Napoli adalah...",
+        "options":  [
+                        "Stanislav Lobotka",
+                        "Marek Hamšík",
+                        "Juraj Kucka",
+                        "Milan Škriniar"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  195,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/195_milan_kriniar.jpg",
+        "questionText":  "Bek tengah tangguh Slovakia mantan kapten Inter Milan yang kini membela PSG adalah...",
+        "options":  [
+                        "Martin Škrtel",
+                        "Milan Škriniar",
+                        "Dávid Hancko",
+                        "Denis Vavro"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  196,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/196_martin_degaard.jpg",
+        "questionText":  "Playmaker kidal dan kapten Arsenal serta timnas Norwegia adalah...",
+        "options":  [
+                        "Sander Berge",
+                        "Martin Ødegaard",
+                        "Erling Haaland",
+                        "Alexander Sørloth"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  197,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/197_alexander_isak.jpg",
+        "questionText":  "Penyerang lincah dan cepat asal Swedia andalan lini depan Newcastle United adalah...",
+        "options":  [
+                        "Dejan Kulusevski",
+                        "Alexander Isak",
+                        "Viktor Gyökeres",
+                        "Emil Forsberg"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  198,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/198_dejan_kulusevski.jpg",
+        "questionText":  "Winger kidal Swedia bertenaga kuat yang membela Tottenham Hotspur adalah...",
+        "options":  [
+                        "Anthony Elanga",
+                        "Dejan Kulusevski",
+                        "Viktor Claesson",
+                        "Robin Quaison"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  199,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/199_christian_eriksen.jpg",
+        "questionText":  "Playmaker genius Denmark spesialis bola mati yang pernah membela Ajax, Spurs, Inter, dan MU adalah...",
+        "options":  [
+                        "Pierre-Emile Højbjerg",
+                        "Christian Eriksen",
+                        "Mikkel Damsgaard",
+                        "Thomas Delaney"
+                    ],
+        "correctAnswerIndex":  1
+    },
+    {
+        "id":  200,
+        "imageUrl":  "https://cdn.jsdelivr.net/gh/kebol97/gametbcococue@main/gambar_pemain/200_kasper_schmeichel.jpg",
+        "questionText":  "Kiper utama Denmark juara Premier League dongeng bersama Leicester City tahun 2016 adalah...",
+        "options":  [
+                        "Jonas Lössl",
+                        "Kasper Schmeichel",
+                        "Frederik Rønnow",
+                        "Mads Hermansen"
+                    ],
+        "correctAnswerIndex":  1
+    }
 ]
