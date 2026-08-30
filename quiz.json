@@ -1048,6 +1048,356 @@
     "questionText": "Striker andalan Argentina berjuluk 'El Toro' yang menjadi kapten dan mesin gol Inter Milan adalah...",
     "options": ["Julián Álvarez", "Lautaro Martínez", "Mauro Icardi", "Giovanni Simeone"],
     "correctAnswerIndex": 1
+  },
+  {
+    "id": 151,
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Julian_Alvarez_2022.jpg?width=600",
+    "questionText": "Penyerang muda Argentina berjuluk 'La Araña' yang menjuarai Piala Dunia dan treble winner di usia muda adalah...",
+    "options": ["Lautaro Martínez", "Julián Álvarez", "Alejandro Garnacho", "Joaquín Correa"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 152,
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Emiliano_Martinez_2022.jpg?width=600",
+    "questionText": "Kiper eksentrik Argentina berjuluk 'Dibu' peraih Golden Glove Piala Dunia 2022 adalah...",
+    "options": ["Franco Armani", "Emiliano Martínez", "Gerónimo Rulli", "Agustín Marchesín"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 153,
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Enzo_Fernandez_2022.jpg?width=600",
+    "questionText": "Gelandang muda Argentina peraih penghargaan Best Young Player di Piala Dunia 2022 adalah...",
+    "options": ["Alexis Mac Allister", "Enzo Fernández", "Rodrigo De Paul", "Leandro Paredes"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 154,
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Alexis_Mac_Allister_2022.jpg?width=600",
+    "questionText": "Gelandang cerdas Argentina berdarah Irlandia yang menjadi pilar juara dunia 2022 dan Liverpool adalah...",
+    "options": ["Enzo Fernández", "Alexis Mac Allister", "Exequiel Palacios", "Guido Rodríguez"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 155,
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Rodrigo_De_Paul_2022.jpg?width=600",
+    "questionText": "Gelandang pekerja keras Argentina yang sering dijuluki 'Bodyguard Messi' adalah...",
+    "options": ["Leandro Paredes", "Rodrigo De Paul", "Giovani Lo Celso", "Marcos Acuña"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 156,
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Cristian_Romero_2022.jpg?width=600",
+    "questionText": "Bek tengah tanpa kompromi asal Argentina berjuluk 'Cuti' pilar lini belakang Tottenham Hotspur adalah...",
+    "options": ["Nicolás Otamendi", "Cristian Romero", "Lisandro Martínez", "Germán Pezzella"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 157,
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Lisandro_Martinez_2022.jpg?width=600",
+    "questionText": "Bek tengah tangguh Argentina berjuluk 'The Butcher' yang membela Manchester United adalah...",
+    "options": ["Marcos Senesi", "Lisandro Martínez", "Facundo Medina", "Lucas Martínez Quarta"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 158,
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Nicolas_Otamendi_2018.jpg?width=600",
+    "questionText": "Bek veteran Argentina yang mengawal lini pertahanan di final Piala Dunia 2022 dan mantan pemain Man City adalah...",
+    "options": ["Ezequiel Garay", "Nicolás Otamendi", "Federico Fazio", "Gabriel Mercado"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 159,
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bernardo_Silva_2018.jpg?width=600",
+    "questionText": "Playmaker serba bisa Portugal andalan Manchester City dengan kontrol bola sangat rapat adalah...",
+    "options": ["Bruno Fernandes", "Bernardo Silva", "João Félix", "Diogo Jota"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 160,
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bruno_Fernandes_2018.jpg?width=600",
+    "questionText": "Gelandang kreatif sekaligus kapten Manchester United asal Portugal spesialis umpan kunci adalah...",
+    "options": ["Rúben Neves", "Bruno Fernandes", "João Moutinho", "Vitinha"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 161,
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ruben_Dias_2021.jpg?width=600",
+    "questionText": "Bek tengah tangguh Portugal peraih FWA Footballer of the Year di musim perdananya bersama Man City adalah...",
+    "options": ["Pepe", "Rúben Dias", "José Fonte", "Gonçalo Inácio"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 162,
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pepe_2018.jpg?width=600",
+    "questionText": "Bek legendaris Portugal yang terkenal tangguh dan tanpa kompromi pilar Real Madrid selama satu dekade adalah...",
+    "options": ["Ricardo Carvalho", "Pepe", "Bruno Alves", "Rolando"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 163,
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ricardo_Carvalho_2010.jpg?width=600",
+    "questionText": "Bek tengah elegan Portugal pilar pertahanan Porto, Chelsea, dan Real Madrid adalah...",
+    "options": ["Jorge Andrade", "Ricardo Carvalho", "Fernando Couto", "Paulo Ferreira"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 164,
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Luis_Figo_2010.jpg?width=600",
+    "questionText": "Winger legendaris Portugal peraih Ballon d'Or 2000 yang melakukan kepindahan kontroversial dari Barcelona ke Real Madrid adalah...",
+    "options": ["Rui Costa", "Luís Figo", "Paulo Futre", "Simão Sabrosa"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 165,
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Rui_Costa_2004.jpg?width=600",
+    "questionText": "Playmaker klasik Portugal nomor 10 yang melegenda bersama Fiorentina dan AC Milan adalah...",
+    "options": ["Deco", "Rui Costa", "João Pinto", "Maniche"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 166,
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Deco_2008.jpg?width=600",
+    "questionText": "Gelandang serang naturalisasi Portugal peraih Liga Champions bersama Porto dan Barcelona adalah...",
+    "options": ["Tiago Mendes", "Deco", "Costinha", "Raul Meireles"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 167,
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Nani_2016.jpg?width=600",
+    "questionText": "Winger lincah Portugal dengan selebrasi salto akrobatik eks bintang Manchester United adalah...",
+    "options": ["Ricardo Quaresma", "Nani", "Silvestre Varela", "Bruma"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 168,
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ricardo_Quaresma_2018.jpg?width=600",
+    "questionText": "Winger sensasional Portugal yang sangat mahir dengan teknik tendangan 'Trivela' dan 'Rabona' adalah...",
+    "options": ["Nani", "Ricardo Quaresma", "Simão", "Hugo Viana"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 169,
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Joao_Felix_2021.jpg?width=600",
+    "questionText": "Penyerang kreatif muda Portugal yang pernah memenangkan penghargaan Golden Boy 2019 adalah...",
+    "options": ["Rafael Leão", "João Félix", "Gonçalo Ramos", "Pedro Neto"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 170,
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Rafael_Leao_2022.jpg?width=600",
+    "questionText": "Winger cepat dan eksplosif Portugal yang menjadi pemain terbaik Serie A bersama AC Milan adalah...",
+    "options": ["João Félix", "Rafael Leão", "Francisco Conceição", "Diogo Jota"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 171,
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Diogo_Jota_2021.jpg?width=600",
+    "questionText": "Penyerang serbaguna Portugal yang menjadi mesin gol mematikan di Liverpool adalah...",
+    "options": ["Gonçalo Guedes", "Diogo Jota", "André Silva", "Paulinho"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 172,
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Joao_Cancelo_2021.jpg?width=600",
+    "questionText": "Bek sayap serbaguna Portugal yang mahir bermain inverted fullback di klub-klub elit Eropa adalah...",
+    "options": ["Nélson Semedo", "João Cancelo", "Diogo Dalot", "Nuno Mendes"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 173,
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bukayo_Saka_2021.jpg?width=600",
+    "questionText": "Winger muda andalan Arsenal dan timnas Inggris berjuluk 'Starboy' adalah...",
+    "options": ["Phil Foden", "Bukayo Saka", "Jadon Sancho", "Marcus Rashford"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 174,
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Phil_Foden_2021.jpg?width=600",
+    "questionText": "Gelandang serang kidal Inggris didikan asli akademi Manchester City berjuluk 'Stockport Iniesta' adalah...",
+    "options": ["Mason Mount", "Phil Foden", "Cole Palmer", "Jack Grealish"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 175,
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jude_Bellingham_2023.jpg?width=600",
+    "questionText": "Bintang muda timnas Inggris bernomor punggung 5 di Real Madrid peraih Kopa Trophy 2023 adalah...",
+    "options": ["Declan Rice", "Jude Bellingham", "Conor Gallagher", "Kobbie Mainoo"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 176,
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Declan_Rice_2021.jpg?width=600",
+    "questionText": "Gelandang bertahan andalan timnas Inggris yang menjadi jenderal lapangan tengah Arsenal adalah...",
+    "options": ["Kalvin Phillips", "Declan Rice", "Jordan Henderson", "James Ward-Prowse"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 177,
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Marcus_Rashford_2018.jpg?width=600",
+    "questionText": "Penyerang sayap cepat jebolan akademi Manchester United nomor punggung 10 adalah...",
+    "options": ["Jadon Sancho", "Marcus Rashford", "Mason Greenwood", "Danny Welbeck"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 178,
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jack_Grealish_2021.jpg?width=600",
+    "questionText": "Winger Inggris dengan gaya kaos kaki rendah khas yang memenangkan treble bersama Man City adalah...",
+    "options": ["James Maddison", "Jack Grealish", "Harvey Barnes", "Anthony Gordon"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 179,
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Trent_Alexander-Arnold_2018.jpg?width=600",
+    "questionText": "Bek kanan Inggris pemilik umpan silang akurat nomor 66 legendaris di Liverpool adalah...",
+    "options": ["Kyle Walker", "Trent Alexander-Arnold", "Reece James", "Kieran Trippier"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 180,
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Kyle_Walker_2018.jpg?width=600",
+    "questionText": "Bek kanan Inggris dengan kecepatan sprint luar biasa pilar pertahanan Manchester City adalah...",
+    "options": ["Kieran Trippier", "Kyle Walker", "Reece James", "Aaron Wan-Bissaka"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 181,
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jordan_Pickford_2018.jpg?width=600",
+    "questionText": "Kiper utama tim nasional Inggris pahlawan drama adu penalti yang membela Everton adalah...",
+    "options": ["Aaron Ramsdale", "Jordan Pickford", "Nick Pope", "Dean Henderson"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 182,
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Raheem_Sterling_2018.jpg?width=600",
+    "questionText": "Winger lincah Inggris yang pernah membela Liverpool, Manchester City, Chelsea, dan Arsenal adalah...",
+    "options": ["Theo Walcott", "Raheem Sterling", "Shaun Wright-Phillips", "Alex Oxlade-Chamberlain"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 183,
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jamie_Vardy_2018.jpg?width=600",
+    "questionText": "Striker tajam Inggris pemecah rekor mencetak gol dalam 11 laga beruntun saat membawa Leicester juara EPL adalah...",
+    "options": ["Harry Kane", "Jamie Vardy", "Danny Ings", "Callum Wilson"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 184,
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Riyad_Mahrez_2019.jpg?width=600",
+    "questionText": "Winger kidal Aljazair dengan sentuhan pertama ajaib eks bintang Leicester dan Manchester City adalah...",
+    "options": ["Sofiane Feghouli", "Riyad Mahrez", "Yacine Brahimi", "Islam Slimani"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 185,
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Emerick_Aubameyang_2018.jpg?width=600",
+    "questionText": "Striker tajam asal Gabon peraih sepatu emas Premier League bersama Arsenal dan bintang Dortmund adalah...",
+    "options": ["Nicolas Pépé", "Pierre-Emerick Aubameyang", "Wilfried Zaha", "Sebastien Haller"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 186,
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Hakim_Ziyech_2018.jpg?width=600",
+    "questionText": "Playmaker kidal Maroko berjuluk 'The Wizard' yang membawa negaranya ke semifinal Piala Dunia 2022 adalah...",
+    "options": ["Sofiane Boufal", "Hakim Ziyech", "Amine Harit", "Adel Taarabt"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 187,
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Achraf_Hakimi_2018.jpg?width=600",
+    "questionText": "Bek kanan super cepat timnas Maroko yang membela Paris Saint-Germain adalah...",
+    "options": ["Noussair Mazraoui", "Achraf Hakimi", "Nayef Aguerd", "Romain Saïss"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 188,
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Yassine_Bounou_2022.jpg?width=600",
+    "questionText": "Kiper tangguh Maroko berjuluk 'Bono' pahlawan penalti Piala Dunia 2022 dan juara Liga Europa adalah...",
+    "options": ["Munir Mohamedi", "Yassine Bounou", "Kasper Schmeichel", "Keylor Navas"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 189,
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Keylor_Navas_2018.jpg?width=600",
+    "questionText": "Kiper Kosta Rika peraih 3 gelar Liga Champions beruntun bersama Real Madrid adalah...",
+    "options": ["Claudio Bravo", "Keylor Navas", "Willy Caballero", "Sergio Romero"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 190,
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jan_Oblak_2018.jpg?width=600",
+    "questionText": "Kiper tangguh Slovenia peraih berkali-kali Zamora Trophy di Atletico Madrid adalah...",
+    "options": ["Samir Handanović", "Jan Oblak", "Thibaut Courtois", "Unai Simón"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 191,
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Thibaut_Courtois_2018.jpg?width=600",
+    "questionText": "Kiper jangkung Belgia pemain terbaik di final Liga Champions 2022 bersama Real Madrid adalah...",
+    "options": ["Simon Mignolet", "Thibaut Courtois", "Koen Casteels", "Matz Sels"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 192,
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Romelu_Lukaku_2018.jpg?width=600",
+    "questionText": "Top skor sepanjang masa tim nasional Belgia berpostur kekar adalah...",
+    "options": ["Christian Benteke", "Romelu Lukaku", "Michy Batshuayi", "Divock Origi"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 193,
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Dries_Mertens_2018.jpg?width=600",
+    "questionText": "Penyerang lincah Belgia yang memecahkan rekor top skor sepanjang masa Napoli adalah...",
+    "options": ["Lorenzo Insigne", "Dries Mertens", "José Callejón", "Marek Hamšík"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 194,
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Marek_Hamsik_2018.jpg?width=600",
+    "questionText": "Gelandang legendaris Slovakia dengan gaya rambut mohawk ikonik kapten Napoli adalah...",
+    "options": ["Stanislav Lobotka", "Marek Hamšík", "Juraj Kucka", "Milan Škriniar"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 195,
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Milan_Skriniar_2021.jpg?width=600",
+    "questionText": "Bek tengah tangguh Slovakia mantan kapten Inter Milan yang kini membela PSG adalah...",
+    "options": ["Martin Škrtel", "Milan Škriniar", "Dávid Hancko", "Denis Vavro"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 196,
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Martin_Odegaard_2023.jpg?width=600",
+    "questionText": "Playmaker kidal dan kapten Arsenal serta timnas Norwegia adalah...",
+    "options": ["Sander Berge", "Martin Ødegaard", "Erling Haaland", "Alexander Sørloth"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 197,
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Alexander_Isak_2021.jpg?width=600",
+    "questionText": "Penyerang lincah dan cepat asal Swedia andalan lini depan Newcastle United adalah...",
+    "options": ["Dejan Kulusevski", "Alexander Isak", "Viktor Gyökeres", "Emil Forsberg"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 198,
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Dejan_Kulusevski_2021.jpg?width=600",
+    "questionText": "Winger kidal Swedia bertenaga kuat yang membela Tottenham Hotspur adalah...",
+    "options": ["Anthony Elanga", "Dejan Kulusevski", "Viktor Claesson", "Robin Quaison"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 199,
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Christian_Eriksen_2018.jpg?width=600",
+    "questionText": "Playmaker genius Denmark spesialis bola mati yang pernah membela Ajax, Spurs, Inter, dan MU adalah...",
+    "options": ["Pierre-Emile Højbjerg", "Christian Eriksen", "Mikkel Damsgaard", "Thomas Delaney"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 200,
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Kasper_Schmeichel_2018.jpg?width=600",
+    "questionText": "Kiper utama Denmark juara Premier League dongeng bersama Leicester City tahun 2016 adalah...",
+    "options": ["Jonas Lössl", "Kasper Schmeichel", "Frederik Rønnow", "Mads Hermansen"],
+    "correctAnswerIndex": 1
   }
   
 ]
