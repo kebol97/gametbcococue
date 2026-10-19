@@ -1,0 +1,29 @@
+{
+  "More":
+  [
+    {
+      "id":0,
+      "title":"More Apps",
+      "image":"https://pdhani.github.io/json/allapps.webp",
+      "link":"https://play.google.com/store/apps/developer?id=Cococue"
+    },
+    {
+      "id":1,
+      "title":"Omnisnap",
+      "image":"https://play-lh.googleusercontent.com/gczQYq7aE3Ygo3Lky0bUF91ItwTNlZsK5Fcr9GbQ51PjGsxoOv5KifBfRToP_qcqMqqtiq5f86PmtTVTq_ty1R0=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.cococue.omnisnap"
+    },
+    {
+      "id":2,
+      "title":"Football Star Fake Call",
+      "image":"https://play-lh.googleusercontent.com/g3z10evbR8saWsUeAx15J0oIWsq3uRGS1hXLQtM5zzG9SM_MUmM3h4CV2j40H8iaW1Ovt0_ynNmDmOBXQjfv=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.cococue.fakecallfootballplayer"
+    },
+    {
+      "id":3,
+      "title":"Tebak Buah sayur & Hewan",
+      "image":"https://play-lh.googleusercontent.com/kBWR1yetcjZeL4m-EiZSwG9ktrdIYLjgYBm0PLoisV-ujQEvOch9YuZQy7wVLi8erMmBhva1fnRHq7s-pYmFnLM=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.cococue.tebakbuahsayur"
+    }
+
+}
