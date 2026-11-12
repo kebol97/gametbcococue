@@ -1,0 +1,13 @@
+{
+  "show_banner": false,
+  "show_interstitial": true,
+  "show_native": true,
+  "show_rewarded": true,
+  "show_app_open": true,
+  "banner_id": "ca-app-pub-5135473927373558/6984213268x",
+  "interstitial_id": "ca-app-pub-5135473927373558/7139206060x",
+  "rewarded_id": "ca-app-pub-5135473927373558/2250761338x",
+  "native_id": "ca-app-pub-5135473927373558/7311516324x",
+  "app_open_id": "ca-app-pub-5135473927373558/588196471x",
+  "watermark_removal_rewarded": true
+}
