@@ -9,7 +9,7 @@
   "app_open_interval_min": 120,
 
   "unity_game_id": "800406787",
-  "unity_test_mode": true,
+  "unity_test_mode": false,
   "unity_banner_id": "Banner",
   "unity_interstitial_id": "Interstitial",
   "unity_rewarded_id": "BP_Rewarded_Android"
