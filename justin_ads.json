@@ -1,6 +1,6 @@
 {
   "show_ads": true,
-  "banner_id": "ca-app-pub-3940256099942544/6300978111x",
+  "banner_id": "ca-app-pub-3940256099942544/6300978111",
   "interstitial_id": "ca-app-pub-3940256099942544/1033173712",
   "native_id": "ca-app-pub-3940256099942544/2247696110",
   "rewarded_id": "ca-app-pub-3940256099942544/5224354917",
@@ -8,9 +8,9 @@
   "interstitial_interval_min": 1,
   "app_open_interval_min": 0,
 
-  "unity_game_id": "800406787",
-  "unity_test_mode": false,
-  "unity_banner_id": "Banner",
-  "unity_interstitial_id": "Interstitial",
+  "unity_game_id": "800442611",
+  "unity_test_mode": true,
+  "unity_banner_id": "BP_Banner_Android",
+  "unity_interstitial_id": "BP_Interstitial_Android",
   "unity_rewarded_id": "BP_Rewarded_Android"
 }
