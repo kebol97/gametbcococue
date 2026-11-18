@@ -5,7 +5,7 @@
   "native_id": "ca-app-pub-3940256099942544/2247696110",
   "rewarded_id": "ca-app-pub-3940256099942544/5224354917",
   "app_open_id": "ca-app-pub-ca-app-pub-3940256099942544/9257395921",
-  "interstitial_interval_min": 0,5,
+  "interstitial_interval_min": 0.5,
   "app_open_interval_min": 120,
 
   "unity_game_id": "800406787",
