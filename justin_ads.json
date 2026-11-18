@@ -1,10 +1,10 @@
 {
   "show_ads": true,
-  "banner_id": "ca-app-pub-3940256099942544/6300978111",
-  "interstitial_id": "ca-app-pub-3940256099942544/1033173712",
-  "native_id": "ca-app-pub-3940256099942544/2247696110",
-  "rewarded_id": "ca-app-pub-3940256099942544/5224354917",
-  "app_open_id": "ca-app-pub-ca-app-pub-3940256099942544/9257395921",
+  "banner_id": "ca-app-pub-3940256099942544/6300978111x",
+  "interstitial_id": "ca-app-pub-3940256099942544/1033173712x",
+  "native_id": "ca-app-pub-3940256099942544/2247696110x",
+  "rewarded_id": "ca-app-pub-3940256099942544/5224354917x",
+  "app_open_id": "ca-app-pub-ca-app-pub-3940256099942544/9257395921x",
   "interstitial_interval_min": 1,
   "app_open_interval_min": 120,
 
