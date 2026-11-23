@@ -1,0 +1,16 @@
+{
+  "show_ads": true,
+  "banner_id": "ca-app-pub-5135473927373558/8069447613x",
+  "interstitial_id": "ca-app-pub-5135473927373558/5443284277x",
+  "native_id": "ca-app-pub-5135473927373558/2817120930x",
+  "rewarded_id": "ca-app-pub-5135473927373558/1361615213x",
+  "app_open_id": "ca-app-pub-5135473927373558/8532482042x",
+  "interstitial_interval_min": 1,
+  "app_open_interval_min": 0,
+
+  "unity_game_id": "800448886",
+  "unity_test_mode": true,
+  "unity_banner_id": "Banner_Android",
+  "unity_interstitial_id": "Interstitial_Android",
+  "unity_rewarded_id": "Rewarded_Android"
+}
